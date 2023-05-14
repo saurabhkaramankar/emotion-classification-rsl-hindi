@@ -1,0 +1,5050 @@
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+विवेकानंद को  गुस्सा  आ  गया 
+Emotion predictions:
+joy 0.064179726
+suspense 1.7766913
+anger 89.71384
+sadness 0.30860478
+neutral 8.136687
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+माली को कैसा उल्लू बनाया है 
+Emotion predictions:
+joy 97.52242
+suspense 0.0022149918
+anger 0.025262363
+sadness 0.049482647
+neutral 2.3806741
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+सुना है, यहाँ मुर्दों की खोपड़ियाँ दौड़ती हैं
+Emotion predictions:
+joy 0.03217641
+suspense 99.81476
+anger 0.013959456
+sadness 0.09333467
+neutral 0.045772824
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+उसने सर हिलाया और उत्तर में उदास भाव से मुस्कुरा दी
+Emotion predictions:
+joy 0.11820355
+suspense 1.8946718
+anger 0.037439402
+sadness 96.58466
+neutral 1.3650198
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+दिन भर  मैं  यहाँ देखती रेहती हूँ हु कि धुप का टुकड़ा किस बेंच पैर है - उसी बेंच पर जा कर बैठ जाती हूँ 
+Emotion predictions:
+joy 6.021202
+suspense 0.40373987
+anger 0.03228839
+sadness 6.4233108
+neutral 87.11946
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+तब कहीं जा कर बच्चा मिले
+Emotion predictions:
+joy -0.11401684
+suspense -0.024691276
+anger 0.19984777
+sadness -0.01664707
+neutral 0.051584058
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+अम्माँ जी, कजाकी की तरह कोई दुनिया भर में नहीं दौड़ सकता, इसी से तो देर हो गयी
+Emotion predictions:
+joy -0.09161666
+suspense 0.060247555
+anger 0.2880034
+sadness -0.01832436
+neutral 0.07305375
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+इसलिए बाबू जी ने बेचारे को निकाल दिया , चपरास, साफा, बल्लम, सब छीन लिया
+Emotion predictions:
+joy -0.038536515
+suspense 0.03614942
+anger 0.28618094
+sadness -0.012860134
+neutral 0.091388315
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+अब बेचारा क्या करेगा
+Emotion predictions:
+joy -0.09919502
+suspense -0.037266135
+anger 0.20685269
+sadness -0.01964831
+neutral 0.092967466
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+भूखों मर जायगा
+Emotion predictions:
+joy -0.02752759
+suspense 0.0399321
+anger 0.28630948
+sadness 0.009489916
+neutral 0.106160134
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+अम्माँ ने पूछा—कहाँ है कजाकी, जरा उसे बुला तो लाओ
+Emotion predictions:
+joy -0.111049876
+suspense -0.04054839
+anger 0.11873314
+sadness -0.037067927
+neutral 0.072501756
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मैंने कहा —बाहर तो खड़ा है
+Emotion predictions:
+joy -0.15213034
+suspense -0.05854598
+anger 0.21248768
+sadness -0.026357364
+neutral 0.117453605
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+कहता था, अम्माँ जी से मेरा कहा-सुना माफ करवा देना
+Emotion predictions:
+joy -0.1068535
+suspense -0.0023579374
+anger 0.18768859
+sadness 0.006508298
+neutral 0.08357889
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+अब तक अम्माँ जी मेरे वृत्तांत को दिल्लगी समझ रही थीं
+Emotion predictions:
+joy -0.09307125
+suspense 0.052960314
+anger 0.22311574
+sadness 0.04616069
+neutral 0.10727332
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+शायद वह समझती थीं कि बाबू जी ने कजाकी को डॉटा होगा; लेकिन मेरा अंतिम वाक्य सुनकर संशय हुआ कि सचमुच तो कजाकी बरखास्त नहीं कर दिया गया
+Emotion predictions:
+joy -0.20904979
+suspense -0.07015483
+anger 0.17033273
+sadness -0.019725077
+neutral 0.04944154
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+बाहर आ कर 'कजाकी
+Emotion predictions:
+joy -0.08803871
+suspense -0.002573572
+anger 0.25474524
+sadness 0.0179376
+neutral 0.05869939
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+कजाकी' पुकारने लगीं, पर कजाकी का कहीं पता न था
+Emotion predictions:
+joy -0.09598374
+suspense 0.0139147565
+anger 0.2597956
+sadness 0.0043614544
+neutral 0.057439197
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+मैंने बार-बार पुकारा; लेकिन कजाकी वहाँ न था
+Emotion predictions:
+joy -0.070603155
+suspense 0.03872537
+anger 0.21469262
+sadness -0.009455111
+neutral 0.0843783
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+खाना तो मैंने खा लिया , बच्चे शोक में खाना नहीं छोड़ते, खास कर जब रबड़ी भी सामने हो; मगर बड़ी रात तक पड़े-पड़े सोचता रहा , मेरे पास रुपये होते, तो एक लाख रुपये कजाकी को दे देता और कहता , बाबू जी से कभी मत बोलना
+Emotion predictions:
+joy -0.011985451
+suspense -0.12910657
+anger -0.32165086
+sadness 0.20934187
+neutral -0.009108886
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+बेचारा भूखों मर जायगा
+Emotion predictions:
+joy -0.0034711957
+suspense 0.0022803321
+anger 0.26301008
+sadness 0.008518793
+neutral 0.099820234
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+देखूँ, कल आता है कि नहीं
+Emotion predictions:
+joy -0.11482289
+suspense -0.0220481
+anger 0.13827759
+sadness -0.048814103
+neutral 0.07519068
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+अब क्या करेगा आ कर
+Emotion predictions:
+joy -0.075469956
+suspense -0.0119592175
+anger 0.21313353
+sadness -0.0050618574
+neutral 0.05275763
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+मगर आने को तो कह गया है
+Emotion predictions:
+joy -0.08647655
+suspense -0.026416488
+anger 0.23093067
+sadness -0.0079972595
+neutral 0.084753945
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+मैं कल उसे अपने साथ खाना खिलाऊँगा
+Emotion predictions:
+joy -0.09316181
+suspense 0.06613141
+anger 0.2916236
+sadness 0.022688627
+neutral 0.09398559
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+यही हवाई किले बनाते-बनाते मुझे नींद आ गयी
+Emotion predictions:
+joy -0.09297009
+suspense 0.033298478
+anger 0.31503114
+sadness 0.030999303
+neutral 0.051869914
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+दूसरे दिन मैं दिन भर अपने हिरन के बच्चे की सेवा-सत्कार में व्यस्त रहा
+Emotion predictions:
+joy -0.11311941
+suspense 0.012898855
+anger 0.24748227
+sadness 0.018583074
+neutral 0.031624556
+
+1/1 [==============================] - 0s 44ms/step
+Input text:
+पहले उसका नामकरण संस्कार हुआ
+Emotion predictions:
+joy -0.07690489
+suspense -0.0065308437
+anger 0.28802565
+sadness -0.02999302
+neutral 0.08617467
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+'मुन्नू' नाम रखा गया
+Emotion predictions:
+joy -0.057997443
+suspense -0.022564031
+anger 0.22192527
+sadness -0.0167455
+neutral 0.060160585
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+फिर मैंने उसका अपने सब हमजोलियों और सहपाठियों से परिचय कराया
+Emotion predictions:
+joy -0.09013288
+suspense 0.030084845
+anger 0.25227812
+sadness 0.0048879087
+neutral 0.08612384
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+दिन ही भर में वह मुझसे इतना हिल गया कि मेरे पीछे-पीछे दौड़ने लगा
+Emotion predictions:
+joy -0.10130663
+suspense -0.013806894
+anger 0.16186155
+sadness 0.009182919
+neutral 0.09603534
+
+1/1 [==============================] - 0s 42ms/step
+Input text:
+इतनी ही देर में मैंने उसे अपने जीवन में एक महत्त्वपूर्ण स्थान दे दिया
+Emotion predictions:
+joy -0.0649291
+suspense 0.05805292
+anger 0.32270047
+sadness 0.029107988
+neutral 0.070724756
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+अपने भविष्य में बननेवाले विशाल भवन में उसके लिए अलग कमरा बनाने का भी निश्चय कर लिया; चारपाई, सैर करने की फिटन आदि की भी आयोजना कर ली
+Emotion predictions:
+joy -0.057430472
+suspense 0.014151055
+anger 0.2703732
+sadness 0.030303352
+neutral 0.0037814714
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+लेकिन संध्या होते ही मैं सब कुछ छोड़-छाड़ कर सड़क पर जा खड़ा हुआ और कजाकी की बाट जोहने लगा
+Emotion predictions:
+joy -0.11347098
+suspense 0.03464495
+anger 0.22843103
+sadness -0.0044671446
+neutral 0.11270775
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+जानता था कि कजाकी निकाल दिया गया है, अब उसे यहाँ आने की कोई जरूरत नहीं रही
+Emotion predictions:
+joy -0.12989752
+suspense -0.054726094
+anger 0.12995678
+sadness 0.024966575
+neutral 0.04628803
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+फिर न-जाने मुझे क्यों यह आशा हो रही थी कि वह आ रहा है
+Emotion predictions:
+joy -0.14547148
+suspense -0.056401648
+anger 0.11703253
+sadness -0.008238833
+neutral 0.05330585
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+एकाएक मुझे खयाल आया कि कजाकी भूखों मर रहा होगा
+Emotion predictions:
+joy -0.11595413
+suspense -0.016448312
+anger 0.2175746
+sadness -0.03408106
+neutral 0.06713301
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+मैं तुरंत घर आया
+Emotion predictions:
+joy 0.082359
+suspense -0.012960937
+anger 0.29945034
+sadness 0.037621036
+neutral 0.13118105
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+अम्माँ दिया-बत्ती कर रही थीं
+Emotion predictions:
+joy -0.13467896
+suspense 0.026331052
+anger 0.17082958
+sadness 0.04700771
+neutral 0.1002995
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+मैंने चुपके से एक टोकरी में आटा निकाला; आटा हाथों में लपेटे, टोकरी से गिरते आटे की एक लकीर बनाता हुआ भागा
+Emotion predictions:
+joy -0.10289404
+suspense -0.013174459
+anger 0.21638212
+sadness 0.018601023
+neutral 0.045367
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+जा कर सड़क पर खड़ा हुआ ही था कि कजाकी सामने से आता दिखलायी दिया
+Emotion predictions:
+joy -0.13851018
+suspense -0.039198555
+anger 0.19627006
+sadness -0.017718192
+neutral 0.08048462
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+उसके पास बल्लम भी था, कमर में चपरास भी थी, सिर पर साफा भी बँधा हुआ था
+Emotion predictions:
+joy -0.16595921
+suspense -0.11850199
+anger 0.07138479
+sadness 0.023573829
+neutral 0.033109363
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+बल्लम में डाक का थैला भी बँधा हुआ था
+Emotion predictions:
+joy -0.07979325
+suspense -0.009802237
+anger 0.2712844
+sadness -0.024534896
+neutral 0.071541846
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+मैं दौड़ कर उसकी कमर से चिपट गया और विस्मित हो कर बोला —  तुम्हें चपरास और बल्लम कहाँ से मिल गया, कजाकी
+Emotion predictions:
+joy -0.11485992
+suspense 0.0010844842
+anger 0.21030574
+sadness -0.005379323
+neutral 0.064815864
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+कजाकी ने मुझे उठा कर कंधो पर बैठालते हुए कहा —वह चपरास किस काम की थी, भैया
+Emotion predictions:
+joy -0.09632858
+suspense 0.037163496
+anger 0.2962487
+sadness -0.007288851
+neutral 0.108176105
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+वह तो गुलामी की चपरास थी, यह पुरानी खुशी की चपरास है
+Emotion predictions:
+joy -0.1397799
+suspense -0.042284954
+anger 0.20306203
+sadness -0.03983174
+neutral 0.068244375
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+पहले सरकार का नौकर था, अब तुम्हारा नौकर हूँ
+Emotion predictions:
+joy -0.09231097
+suspense -0.03039514
+anger 0.2552195
+sadness -0.009880155
+neutral 0.06785115
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+यह कहते-कहते उसकी निगाह टोकरी पर पड़ी, जो वहीं रखी थी
+Emotion predictions:
+joy -0.13851328
+suspense -0.06105026
+anger 0.11223917
+sadness -0.020540833
+neutral 0.058346152
+
+1/1 [==============================] - 0s 44ms/step
+Input text:
+बोला —  यह आटा कैसा है, भैया
+Emotion predictions:
+joy -0.094812684
+suspense -0.06393456
+anger 0.17640677
+sadness -0.042271905
+neutral 0.049263835
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मैंने सकुचाते हुए कहा —तुम्हारे ही लिए तो लाया हूँ
+Emotion predictions:
+joy -0.16793762
+suspense 0.002868019
+anger 0.18538792
+sadness -0.008114345
+neutral 0.07743627
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+तुम भूखे होगे, आज क्या खाया होगा
+Emotion predictions:
+joy -0.03191414
+suspense -0.02303584
+anger 0.20536967
+sadness -0.01180267
+neutral 0.11125251
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+कजाकी की आँखें तो मैं न देख सका, उसके कंधो पर बैठा हुआ था;
+Emotion predictions:
+joy -0.09776029
+suspense 0.15103924
+anger 0.36515588
+sadness 0.026737943
+neutral 0.13827226
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+हाँ, उसकी आवाज से मालूम हुआ कि उसका गला भर आया है
+Emotion predictions:
+joy -0.124920726
+suspense -0.036000915
+anger 0.11948776
+sadness -0.03584949
+neutral 0.06310988
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+बोला —  भैया, क्या रूखी ही रोटियाँ खाऊँगा
+Emotion predictions:
+joy -0.121011004
+suspense -0.06162168
+anger 0.121435724
+sadness -0.017166767
+neutral 0.09844662
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+दाल, नमक, घी , और तो कुछ नहीं है
+Emotion predictions:
+joy -0.083166435
+suspense -0.014253698
+anger 0.22410628
+sadness -0.023630962
+neutral 0.066556215
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+मैं अपनी भूल पर बहुत लज्जित हुआ
+Emotion predictions:
+joy -0.10319183
+suspense -0.015765738
+anger 0.2664218
+sadness 0.026270542
+neutral 0.06424104
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+सच तो है, बेचारा रूखी रोटियाँ कैसे खायगा
+Emotion predictions:
+joy -0.021971371
+suspense -0.023045182
+anger 0.17104131
+sadness -0.012907639
+neutral 0.1029049
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+लेकिन नमक, दाल, घी कैसे लाऊँ
+Emotion predictions:
+joy -0.0437999
+suspense 0.023657523
+anger 0.2721374
+sadness 0.0066084787
+neutral 0.079044014
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+अब तो अम्माँ चौके में होंगी
+Emotion predictions:
+joy -0.06772118
+suspense -0.01713638
+anger 0.16557728
+sadness -0.021185605
+neutral 0.10161521
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+आटा ले कर तो किसी तरह भाग आया था (अभी तक मुझे न मालूम था कि मेरी चोरी पकड़ ली गयी; आटे की लकीर ने सुराग दे दिया है)
+Emotion predictions:
+joy -0.06789401
+suspense -0.009865098
+anger 0.18717012
+sadness -0.038358342
+neutral 0.068409204
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+अब ये तीन-तीन चीजें कैसे लाऊँगा
+Emotion predictions:
+joy -0.12781176
+suspense -0.05986119
+anger 0.19016267
+sadness 0.015469655
+neutral 0.061955113
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+अम्माँ से माँगूँगा, तो कभी न देंगी
+Emotion predictions:
+joy -0.09915153
+suspense 0.014648467
+anger 0.19636719
+sadness -0.037131675
+neutral 0.116901875
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+एक-एक पैसे के लिए तो घण्टों रुलाती हैं, इतनी सारी चीजें क्यों देने लगीं
+Emotion predictions:
+joy -0.15173542
+suspense -0.011432465
+anger 0.1950191
+sadness 0.036706205
+neutral 0.058046404
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+एकाएक मुझे एक बात याद आयी
+Emotion predictions:
+joy -0.0124711245
+suspense -0.019462273
+anger 0.21780944
+sadness 0.0001645051
+neutral 0.08316566
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मैंने अपनी किताबों के बस्तों में कई आने पैसे रख छोड़े थे
+Emotion predictions:
+joy -0.16094679
+suspense -0.032214962
+anger 0.2059997
+sadness 0.04370839
+neutral 0.10807499
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+मुझे पैसे जमा करके रखने में बड़ा आनन्द आता था
+Emotion predictions:
+joy -0.103416964
+suspense -0.04812596
+anger 0.17695029
+sadness -0.030394875
+neutral 0.103467405
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+मालूम नहीं अब वह आदत क्यों बदल गयी
+Emotion predictions:
+joy -0.1273871
+suspense -0.02048366
+anger 0.20750251
+sadness 0.0038317367
+neutral 0.05260487
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+अब भी वही हालत होती तो शायद इतना फाकेमस्त न रहता
+Emotion predictions:
+joy -0.11569829
+suspense -0.046705365
+anger 0.18178768
+sadness -0.06472467
+neutral 0.064513
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+बाबू जी मुझे प्यार तो कभी न करते थे; पर पैसे खूब देते थे, शायद अपने काम में व्यस्त रहने के कारण, मुझसे पिंड छुड़ाने के लिए इसी नुस्खे को सबसे आसान समझते थे
+Emotion predictions:
+joy -0.057431772
+suspense -0.118624926
+anger -0.23757301
+sadness 0.24072531
+neutral 0.005091898
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+इनकार करने में मेरे रोने और मचलने का भय था
+Emotion predictions:
+joy -0.074049376
+suspense -0.004606046
+anger 0.16726892
+sadness -0.02640377
+neutral 0.076865956
+
+1/1 [==============================] - 0s 46ms/step
+Input text:
+इस बाधा को वह दूर ही से टाल देते थे
+Emotion predictions:
+joy -0.12182602
+suspense 0.0008133352
+anger 0.25602424
+sadness 0.017388776
+neutral 0.09363656
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+अम्माँ जी का स्वभाव इससे ठीक प्रतिकूल था
+Emotion predictions:
+joy -0.07588306
+suspense 0.0006525777
+anger 0.23888531
+sadness -0.044221837
+neutral 0.030935887
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+उन्हें मेरे रोने और मचलने से किसी काम में बाधा पड़ने का भय न था
+Emotion predictions:
+joy -0.09847449
+suspense -0.038593322
+anger 0.16675636
+sadness -0.012225475
+neutral 0.09568462
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+आदमी लेटे-लेटे दिन भर रोना सुन सकता है; हिसाब लगाते हुए जोर की आवाज से ध्यान बँट जाता है
+Emotion predictions:
+joy -0.0798192
+suspense 0.016175378
+anger 0.211868
+sadness -0.022530958
+neutral 0.06535971
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+अम्माँ मुझे प्यार तो बहुत करती थीं, पर पैसे का नाम सुनते ही उनकी त्योरियाँ बदल जाती थीं
+Emotion predictions:
+joy -0.22594127
+suspense -0.16473566
+anger -0.03575313
+sadness 0.16103011
+neutral 0.030853033
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+मेरे पास किताबें न थीं
+Emotion predictions:
+joy -0.16972396
+suspense 0.031482294
+anger 0.20101048
+sadness 0.08809679
+neutral 0.112716585
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+हाँ, एक बस्ता था, जिसमें डाकखाने के दो-चार फार्म तह करके पुस्तक रूप में रखे हुए थे
+Emotion predictions:
+joy -0.2129916
+suspense -0.120996416
+anger 0.13152751
+sadness 0.047598712
+neutral 0.044759672
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+मैंने सोचा , दाल, नमक और घी के लिए क्या उतने पैसे काफी न होंगे
+Emotion predictions:
+joy -0.08696139
+suspense 0.011797911
+anger 0.21915074
+sadness 0.015287913
+neutral 0.067237586
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+मेरी तो मुट्ठी में नहीं आते
+Emotion predictions:
+joy -0.032618653
+suspense 0.007949501
+anger 0.25711763
+sadness -0.0022365712
+neutral 0.12377443
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+यह निश्चय करके मैंने कहा —अच्छा, मुझे उतार दो, तो मैं दाल और नमक ला दूँ, मगर रोज आया करोगे न
+Emotion predictions:
+joy -0.08432196
+suspense -0.052118026
+anger 0.15421416
+sadness -0.006981477
+neutral 0.07297261
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+कजाकी , भैया, खाने को दोगे, तो क्यों न आऊँगा
+Emotion predictions:
+joy -0.0806045
+suspense 0.0037202127
+anger 0.19193318
+sadness -0.02859537
+neutral 0.09369976
+
+1/1 [==============================] - 0s 80ms/step
+Input text:
+मैंने कहा —मैं रोज खाने को दूँगा
+Emotion predictions:
+joy -0.104707845
+suspense 0.00076616183
+anger 0.20302778
+sadness 0.014445756
+neutral 0.11023087
+
+1/1 [==============================] - 0s 65ms/step
+Input text:
+कजाकी बोला —  तो मैं रोज आऊँगा
+Emotion predictions:
+joy -0.13017291
+suspense -0.032030113
+anger 0.18479207
+sadness -0.005714435
+neutral 0.12338053
+
+1/1 [==============================] - 0s 93ms/step
+Input text:
+मैं नीचे उतरा और दौड़ कर सारी पूँजी उठा लाया
+Emotion predictions:
+joy -0.1023056
+suspense 0.03875934
+anger 0.27414554
+sadness 0.02030699
+neutral 0.072528414
+
+1/1 [==============================] - 0s 64ms/step
+Input text:
+कजाकी को रोज बुलाने के लिए उस वक्त मेरे पास कोहनूर हीरा भी होता, तो उसको भेंट करने में मुझे पसोपेश न होता
+Emotion predictions:
+joy -0.10697594
+suspense -0.029805556
+anger 0.18903849
+sadness 0.0070525967
+neutral 0.098505855
+
+1/1 [==============================] - 0s 78ms/step
+Input text:
+कजाकी ने विस्मित हो कर पूछा—ये पैसे कहाँ पाये, भैया
+Emotion predictions:
+joy -0.117774226
+suspense -0.05590925
+anger 0.15357697
+sadness -0.017626304
+neutral 0.08370432
+
+1/1 [==============================] - 0s 74ms/step
+Input text:
+मैंने गर्व से कहा —मेरे ही तो हैं
+Emotion predictions:
+joy -0.22171563
+suspense -0.043631777
+anger 0.13741478
+sadness 0.029768713
+neutral 0.15094589
+
+1/1 [==============================] - 0s 118ms/step
+Input text:
+कजाकी , तुम्हारी अम्माँ जी तुमको मारेंगी, कहेंगी , कजाकी ने फुसला कर मँगवा लिये होंगे
+Emotion predictions:
+joy -0.11259976
+suspense -0.042015728
+anger 0.10004003
+sadness 0.011801653
+neutral 0.08230689
+
+1/1 [==============================] - 0s 77ms/step
+Input text:
+भैया, इन पैसों की मिठाई ले लेना और मटके में रख देना
+Emotion predictions:
+joy -0.10221528
+suspense -0.01995623
+anger 0.19225444
+sadness -0.0062990077
+neutral 0.048683282
+
+1/1 [==============================] - 0s 103ms/step
+Input text:
+मैं भूखों नहीं मरता
+Emotion predictions:
+joy -0.041959714
+suspense 0.02998219
+anger 0.33307758
+sadness 0.048062824
+neutral 0.12495388
+
+1/1 [==============================] - 0s 72ms/step
+Input text:
+मेरे दो हाथ हैं
+Emotion predictions:
+joy -0.1260905
+suspense -0.045897037
+anger 0.2937806
+sadness 0.07953386
+neutral 0.12442016
+
+1/1 [==============================] - 0s 72ms/step
+Input text:
+मैं भला भूखों मर सकता हूँ
+Emotion predictions:
+joy 0.0026858207
+suspense 0.06923758
+anger 0.3064313
+sadness 0.033496
+neutral 0.12298715
+
+1/1 [==============================] - 0s 79ms/step
+Input text:
+मैंने बहुत कहा कि पैसे मेरे हैं, लेकिन कजाकी ने न लिए
+Emotion predictions:
+joy -0.017773181
+suspense 0.005336594
+anger 0.23673834
+sadness 0.023423143
+neutral 0.11184588
+
+1/1 [==============================] - 0s 75ms/step
+Input text:
+उसने बड़ी देर तक इधर-उधर की सैर करायी, गीत सुनाये और मुझे घर पहुँचा कर चला गया
+Emotion predictions:
+joy -0.07041587
+suspense 0.02576121
+anger 0.24006064
+sadness -0.020074092
+neutral 0.08903689
+
+1/1 [==============================] - 0s 75ms/step
+Input text:
+मेरे द्वार पर आटे की टोकरी भी रख दी
+Emotion predictions:
+joy -0.09973669
+suspense 0.07377887
+anger 0.30721307
+sadness 0.008345906
+neutral 0.057516553
+
+1/1 [==============================] - 0s 81ms/step
+Input text:
+मैंने घर में कदम रखा ही था कि अम्माँ जी ने डॉट कर कहा —क्यों रे चोर, तू आटा कहाँ ले गया था
+Emotion predictions:
+joy -0.032005943
+suspense -0.13466758
+anger -0.2653499
+sadness 0.22850749
+neutral -0.008441538
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+अब चोरी करना सीखता है
+Emotion predictions:
+joy -0.07963637
+suspense -0.010334538
+anger 0.24435613
+sadness -0.029086284
+neutral 0.08900723
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+बता, किसको आटा दे आया, नहीं तो तेरी खाल उधेड़ कर रख दूँगी
+Emotion predictions:
+joy -0.1217243
+suspense -0.005441129
+anger 0.14724614
+sadness -0.03343939
+neutral 0.08218387
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+मेरी नानी मर गयी
+Emotion predictions:
+joy 0.009996165
+suspense 0.063648626
+anger 0.29942173
+sadness 0.0274394
+neutral 0.11061843
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+अम्माँ क्रोध में सिंहनी हो जाती थीं
+Emotion predictions:
+joy -0.11219165
+suspense 0.040192217
+anger 0.2827942
+sadness 0.014298819
+neutral 0.13053095
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+सिटपिटा कर बोला —  किसी को तो नहीं दिया
+Emotion predictions:
+joy -0.13046095
+suspense 0.036202013
+anger 0.25187823
+sadness -0.015425954
+neutral 0.09586813
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+अम्माँ , तूने आटा नहीं निकाला
+Emotion predictions:
+joy -0.08089255
+suspense -0.019918103
+anger 0.18253598
+sadness -0.041988194
+neutral 0.08832136
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+देख कितना आटा सारे आँगन में बिखरा पड़ा है
+Emotion predictions:
+joy -0.12018848
+suspense -0.00805112
+anger 0.21539837
+sadness -0.042839073
+neutral 0.0967419
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+मैं चुप खड़ा था
+Emotion predictions:
+joy -0.13696177
+suspense -0.06137585
+anger 0.22208533
+sadness 0.036539458
+neutral 0.08924706
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+वह कितना ही धामकाती थीं, चुमकारती थीं, पर मेरी जबान न खुलती थी
+Emotion predictions:
+joy -0.14641269
+suspense -0.052755617
+anger 0.10887608
+sadness 0.030193172
+neutral 0.114800334
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+आनेवाली विपत्ति के भय से प्राण सूख रहे थे
+Emotion predictions:
+joy -0.061741017
+suspense 0.011932358
+anger 0.22762823
+sadness 0.0089266
+neutral 0.07159705
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+यहाँ तक कि यह भी कहने की हिम्मत न पड़ती थी कि बिगड़ती क्यों हो, आटा तो द्वार पर रखा हुआ है, और न उठा कर लाते ही बनता था, मानो क्रिया-शक्ति ही लुप्त हो गयी हो, मानो पैरों में हिलने की सामर्थ्य ही नहीं
+Emotion predictions:
+joy -0.035758823
+suspense -0.15031226
+anger -0.2925648
+sadness 0.20856547
+neutral -0.034556866
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+सहसा कजाकी ने पुकारा , बहू जी, आटा द्वार पर रखा हुआ है
+Emotion predictions:
+joy -0.12589492
+suspense -0.05722353
+anger 0.20326132
+sadness -0.015194703
+neutral 0.0711937
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+भैया मुझे देने को ले गये थे
+Emotion predictions:
+joy -0.074615024
+suspense -0.041628644
+anger 0.18187043
+sadness 0.013533339
+neutral 0.10169346
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+यह सुनते ही अम्माँ द्वार की ओर चली गयीं
+Emotion predictions:
+joy -0.11766817
+suspense 0.033999793
+anger 0.2376287
+sadness 0.0016639009
+neutral 0.065795496
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+कजाकी से वह परदा न करती थीं
+Emotion predictions:
+joy -0.16052
+suspense -0.008785322
+anger 0.21007624
+sadness 0.022174671
+neutral 0.098341845
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+उन्होंने कजाकी से कोई बात की या नहीं, यह तो मैं नहीं जानता; लेकिन अम्माँ जी खाली टोकरी लिये हुए घर में आयीं
+Emotion predictions:
+joy -0.08412757
+suspense 0.085129276
+anger 0.29693577
+sadness 0.009999178
+neutral 0.122747995
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+फिर कोठरी में जाकर संदूक से कुछ निकाला और द्वार की ओर गयीं
+Emotion predictions:
+joy -0.11776344
+suspense 0.016427174
+anger 0.25690472
+sadness 0.0052525923
+neutral 0.10425083
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+मैंने देखा कि उनकी मुट्ठी बंद थी
+Emotion predictions:
+joy -0.077887885
+suspense 0.0458162
+anger 0.26369923
+sadness 0.027346894
+neutral 0.11484734
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+अब मुझसे वहाँ खड़े न रहा गया
+Emotion predictions:
+joy -0.095632665
+suspense -0.039994694
+anger 0.19844072
+sadness -0.013537306
+neutral 0.101606004
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+अम्माँ जी के पीछे-पीछे मैं भी गया
+Emotion predictions:
+joy -0.038454287
+suspense -0.019558871
+anger 0.20293781
+sadness 0.0059823915
+neutral 0.09778669
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+अम्माँ ने द्वार पर कई बार पुकारा; मगर कजाकी चला गया था
+Emotion predictions:
+joy -0.067702174
+suspense 0.052172408
+anger 0.24642238
+sadness -0.029891089
+neutral 0.073625624
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+मैंने बड़ी अधीरता से कहा —मैं जा कर खोज लाऊँ, अम्माँ जी
+Emotion predictions:
+joy -0.11460533
+suspense 0.022645459
+anger 0.25079224
+sadness 0.008789778
+neutral 0.117581055
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+अम्माँ जी ने किवाड़ें बंद करते हुए कहा —तुम अँधेरे  में कहाँ जाओगे, अभी तो यहीं खड़ा था
+Emotion predictions:
+joy -0.09648419
+suspense -0.01715982
+anger 0.19852266
+sadness -0.052487243
+neutral 0.07966433
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+मैंने कहा कि यहीं रहना; मैं आती हूँ
+Emotion predictions:
+joy -0.065203436
+suspense 0.07710163
+anger 0.2530913
+sadness -0.018378206
+neutral 0.09118971
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+तब तक न-जाने कहाँ खिसक गया
+Emotion predictions:
+joy -0.0644092
+suspense -0.027665183
+anger 0.1596896
+sadness -0.02687778
+neutral 0.07200054
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+बड़ा संकोची है
+Emotion predictions:
+joy -0.08864449
+suspense -0.053503152
+anger 0.26493186
+sadness -0.06226454
+neutral 0.07729414
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+आटा तो लेता ही न था
+Emotion predictions:
+joy -0.10854687
+suspense -0.020017702
+anger 0.20324147
+sadness -0.01275906
+neutral 0.053446665
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+मैंने जबरदस्ती उसके अँगोछे में बाँध दिया
+Emotion predictions:
+joy -0.09621564
+suspense 0.04909893
+anger 0.2805793
+sadness 0.0026036575
+neutral 0.076125085
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+मुझे तो बेचारे पर बड़ी दया आती है
+Emotion predictions:
+joy -0.13687305
+suspense -0.0653865
+anger 0.12604345
+sadness -0.038788088
+neutral 0.10865717
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+न-जाने बेचारे के घर में कुछ खाने को है कि नहीं
+Emotion predictions:
+joy -0.11266526
+suspense -0.012303239
+anger 0.20479272
+sadness 0.01711652
+neutral 0.05548165
+
+1/1 [==============================] - 0s 64ms/step
+Input text:
+रुपये लायी थी कि दे दूँगी; पर न-जाने कहाँ चला गया
+Emotion predictions:
+joy -0.082426466
+suspense 0.011765476
+anger 0.18160547
+sadness -0.009876087
+neutral 0.05207751
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+अब तो मुझे भी साहस हुआ
+Emotion predictions:
+joy -0.08426766
+suspense -0.032207236
+anger 0.23236367
+sadness -0.011877045
+neutral 0.06150469
+
+1/1 [==============================] - 0s 70ms/step
+Input text:
+मैंने अपनी चोरी की पूरी कथा कह डाली
+Emotion predictions:
+joy -0.10985226
+suspense 0.034082267
+anger 0.24880688
+sadness 0.031261418
+neutral 0.0862559
+
+1/1 [==============================] - 0s 67ms/step
+Input text:
+बच्चों के साथ समझदार बच्चे बन कर माँ-बाप उन पर जितना असर डाल सकते हैं, जितनी शिक्षा दे सकते हैं, उतने बूढ़े बन कर नहीं
+Emotion predictions:
+joy -0.072693564
+suspense 0.039519764
+anger 0.25842598
+sadness 0.010503355
+neutral 0.07997386
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+अम्माँ जी ने कहा —तुमने मुझसे पूछ क्यों न लिया
+Emotion predictions:
+joy -0.06443344
+suspense 0.008931406
+anger 0.22343576
+sadness -0.048584476
+neutral 0.07010073
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+क्या मैं कजाकी को थोड़ा-सा आटा न देती
+Emotion predictions:
+joy -0.12386375
+suspense -0.031047758
+anger 0.14764054
+sadness -0.02534727
+neutral 0.10839487
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+मैंने इसका उत्तर न दिया
+Emotion predictions:
+joy -0.04608149
+suspense 0.09176469
+anger 0.40694228
+sadness -0.0077929497
+neutral 0.07584594
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+दिल में कहा —इस वक्त तुम्हें कजाकी पर दया आ गयी है, जो चाहे दे डालो; लेकिन मैं माँगता, तो मारने दौड़तीं
+Emotion predictions:
+joy -0.079031
+suspense 0.012595281
+anger 0.1662913
+sadness -0.032846674
+neutral 0.10533409
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+हाँ, यह सोच कर चित्त प्रसन्न हुआ कि अब कजाकी भूखों न मरेगा
+Emotion predictions:
+joy -0.12583163
+suspense -0.02484611
+anger 0.17631811
+sadness -0.01532099
+neutral 0.06971133
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+अम्माँ जी उसे रोज खाने को देंगी और वह रोज मुझे कंधो पर बिठा कर सैर करायेगा
+Emotion predictions:
+joy -0.094905525
+suspense -0.0058108084
+anger 0.21470422
+sadness -0.03960681
+neutral 0.09720401
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+दूसरे दिन मैं दिन भर मुन्नू के साथ खेलता रहा
+Emotion predictions:
+joy -0.08056818
+suspense 0.026550677
+anger 0.25404084
+sadness 0.013684008
+neutral 0.024501838
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+शाम को सड़क पर जा कर खड़ा हो गया
+Emotion predictions:
+joy -0.097728565
+suspense -0.037304953
+anger 0.23609051
+sadness -0.05212681
+neutral 0.07734491
+
+1/1 [==============================] - 0s 69ms/step
+Input text:
+मगर अँधेरा हो गया और कजाकी का कहीं पता नहीं
+Emotion predictions:
+joy -0.09230773
+suspense 0.010617591
+anger 0.24058324
+sadness -0.042365283
+neutral 0.087590404
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+दिये जल गये, रास्ते में सन्नाटा छा गया; पर कजाकी न आया
+Emotion predictions:
+joy -0.030060124
+suspense 0.059342068
+anger 0.2482196
+sadness 0.011458393
+neutral 0.084748626
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+मैं रोता हुआ घर आया
+Emotion predictions:
+joy 0.010964245
+suspense -0.053255375
+anger 0.22938065
+sadness 0.06287378
+neutral 0.11928293
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+अम्माँ जी ने पूछा—क्यों रोते हो, बेटा
+Emotion predictions:
+joy -0.11128162
+suspense -0.039332457
+anger 0.1605348
+sadness -0.005562447
+neutral 0.10309096
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+क्या कजाकी नहीं आया
+Emotion predictions:
+joy -0.04517983
+suspense -0.024476908
+anger 0.22223622
+sadness -0.01308623
+neutral 0.10651644
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+मैं और जोर से रोने लगा
+Emotion predictions:
+joy -0.07082878
+suspense 0.035190396
+anger 0.21092089
+sadness 0.049248107
+neutral 0.10526577
+
+1/1 [==============================] - 0s 70ms/step
+Input text:
+अम्माँ जी ने मुझे छाती से लगा लिया
+Emotion predictions:
+joy -0.05701614
+suspense 0.016336251
+anger 0.27468
+sadness -0.0003942959
+neutral 0.0848126
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+मुझे ऐसा मालूम हुआ कि उनका भी कंठ गद्गद हो गया है
+Emotion predictions:
+joy -0.122227214
+suspense -0.03533256
+anger 0.19228622
+sadness -0.030667257
+neutral 0.09259333
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+उन्होंने कहा —बेटा, चुप हो जाओ, मैं कल किसी हरकारे को भेज कर कजाकी को बुलवाऊँगी
+Emotion predictions:
+joy -0.116824925
+suspense 0.0043644756
+anger 0.1675498
+sadness -0.010491632
+neutral 0.10011892
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+मैं रोते ही रोते सो गया
+Emotion predictions:
+joy 0.017745178
+suspense 0.00088826567
+anger 0.26543394
+sadness 0.06124618
+neutral 0.13157746
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+सबेरे ज्यों ही आँखें खुलीं, मैंने अम्माँ जी से कहा —कजाकी को बुलवा दो
+Emotion predictions:
+joy -0.13459916
+suspense -0.033076867
+anger 0.21651053
+sadness 0.023309425
+neutral 0.1242199
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+अम्माँ ने कहा —आदमी गया है, बेटा
+Emotion predictions:
+joy -0.11368358
+suspense 0.0031506196
+anger 0.17604828
+sadness -0.006953988
+neutral 0.10453626
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+कजाकी आता होगा
+Emotion predictions:
+joy -0.050648324
+suspense -0.05028212
+anger 0.21824822
+sadness -0.023199026
+neutral 0.10345681
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+खुश हो कर खेलने लगा
+Emotion predictions:
+joy -0.08022529
+suspense -0.041525923
+anger 0.18252791
+sadness -0.04426036
+neutral 0.06580521
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+मुझे मालूम था कि अम्माँ जी जो बात कहती हैं, उसे पूरा जरूर करती हैं
+Emotion predictions:
+joy -0.11473729
+suspense -0.028075442
+anger 0.18653226
+sadness 0.020914651
+neutral 0.10456172
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+उन्होंने सबेरे ही एक हरकारे को भेज दिया था
+Emotion predictions:
+joy -0.10805491
+suspense -0.027282016
+anger 0.2369756
+sadness -0.013110593
+neutral 0.08100045
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+दस बजे जब मैं मुन्नू को लिये हुए घर आया, तो मालूम हुआ कि कजाकी अपने घर पर नहीं मिला
+Emotion predictions:
+joy -0.10807637
+suspense 0.025554746
+anger 0.27035928
+sadness -0.0014043897
+neutral 0.09751606
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+वह रात को भी घर न गया था
+Emotion predictions:
+joy -0.12070006
+suspense -0.054084055
+anger 0.20440817
+sadness 0.014699414
+neutral 0.09562506
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+उसकी स्त्री रो रही थी कि न-जाने कहाँ चले गये
+Emotion predictions:
+joy -0.07596785
+suspense -0.0117465295
+anger 0.15705703
+sadness 0.001394406
+neutral 0.088086404
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+उसे भय था कि वह कहीं भाग गया है
+Emotion predictions:
+joy -0.13220905
+suspense -0.041429736
+anger 0.17644003
+sadness -0.025801685
+neutral 0.07510591
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+बालकों का हृदय कितना कोमल होता है, इसका अनुमान दूसरा नहीं कर सकता
+Emotion predictions:
+joy -0.07701516
+suspense 0.03035865
+anger 0.26042065
+sadness -0.0031399578
+neutral 0.078221954
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+उनमें अपने भावों को व्यक्त करने के लिए शब्द नहीं होते
+Emotion predictions:
+joy -0.12045944
+suspense -0.005797077
+anger 0.28409648
+sadness 0.023397565
+neutral 0.08305995
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+उन्हें यह भी ज्ञात नहीं होता कि कौन-सी बात उन्हें विकल कर रही है, कौन-सा काँटा उनके हृदय में खटक रहा है, क्यों बार-बार उन्हें रोना आता है, क्यों वे मन मारे बैठे रहते हैं, क्यों खेलने में जी नहीं लगता
+Emotion predictions:
+joy -0.012293279
+suspense -0.12157803
+anger -0.31220624
+sadness 0.25593197
+neutral -0.004560232
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मेरी भी यही दशा थी
+Emotion predictions:
+joy -0.12881616
+suspense -0.0057032853
+anger 0.17660978
+sadness 0.010130577
+neutral 0.07770756
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+कभी घर में आता, कभी बाहर जाता, कभी सड़क पर जा पहुँचता
+Emotion predictions:
+joy -0.0915088
+suspense 0.002531547
+anger 0.22110909
+sadness -0.0011084601
+neutral 0.060902685
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+आँखें कजाकी को ढूँढ़ रही थीं
+Emotion predictions:
+joy -0.17747208
+suspense 0.009481192
+anger 0.14608589
+sadness 0.056187112
+neutral 0.11830959
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+वह कहाँ चला गया
+Emotion predictions:
+joy -0.069319665
+suspense -0.024979472
+anger 0.19852635
+sadness -0.017687932
+neutral 0.10732707
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+कहीं भाग तो नहीं गया
+Emotion predictions:
+joy -0.0815568
+suspense -0.0018862337
+anger 0.25694743
+sadness -0.013969671
+neutral 0.089585036
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+तीसरे पहर को मैं खोया हुआ-सा सड़क पर खड़ा था
+Emotion predictions:
+joy -0.13008687
+suspense -0.06636484
+anger 0.18768422
+sadness -0.022542518
+neutral 0.059275568
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+सहसा मैंने कजाकी को एक गली में देखा
+Emotion predictions:
+joy -0.093844876
+suspense -0.0131942555
+anger 0.22194564
+sadness 0.008502226
+neutral 0.0959663
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+हाँ, वह कजाकी ही था
+Emotion predictions:
+joy -0.12235422
+suspense -0.05845048
+anger 0.1632478
+sadness -0.0070339665
+neutral 0.08018106
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+मैं उसकी ओर चिल्लाता हुआ दौड़ा; पर गली में उसका पता न था, न-जाने किधर गायब हो गया
+Emotion predictions:
+joy -0.10941611
+suspense 0.0139819905
+anger 0.18847394
+sadness -0.043268815
+neutral 0.07486714
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+मैंने गली के इस सिरे से उस सिरे तक देखा; मगर कहीं कजाकी की गंधा तक न मिली
+Emotion predictions:
+joy -0.08355529
+suspense 0.012059536
+anger 0.18283065
+sadness -0.0022679865
+neutral 0.07216437
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+घर जा कर मैंने अम्माँ जी से यह बात कही
+Emotion predictions:
+joy -0.10888646
+suspense 0.039988726
+anger 0.30247706
+sadness 0.045450367
+neutral 0.070154175
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+मुझे ऐसा जान पड़ा कि वह यह बात सुन कर बहुत चिंतित हो गयीं
+Emotion predictions:
+joy -0.12038456
+suspense -0.013528824
+anger 0.14933631
+sadness -0.012208726
+neutral 0.116782494
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+इसके बाद दो-तीन दिन तक कजाकी न दिखलायी दिया
+Emotion predictions:
+joy -0.016695019
+suspense 0.051413126
+anger 0.31889123
+sadness -0.0033665448
+neutral 0.06788194
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+मैं भी अब उसे कुछ-कुछ भूलने लगा
+Emotion predictions:
+joy -0.08298811
+suspense -0.010363981
+anger 0.16554192
+sadness 0.029991988
+neutral 0.10897593
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+बच्चे पहले जितना प्रेम करते हैं, बाद को उतने ही निष्ठुर भी हो जाते हैं
+Emotion predictions:
+joy -0.108751975
+suspense -0.0013705529
+anger 0.2112042
+sadness 0.022089817
+neutral 0.09517704
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+जिस खिलौने पर प्राण देते हैं, उसी को दो-चार दिन के बाद पटक कर फोड़ भी डालते हैं
+Emotion predictions:
+joy -0.1349282
+suspense -0.08241464
+anger 0.12890291
+sadness 0.019671168
+neutral 0.061735537
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+दस-बारह दिन और बीत गये
+Emotion predictions:
+joy -0.12209007
+suspense -0.0066264383
+anger 0.22366913
+sadness 0.045370705
+neutral 0.094738185
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+दोपहर का समय था
+Emotion predictions:
+joy -0.091467336
+suspense 0.006356418
+anger 0.28549662
+sadness 0.0038471743
+neutral 0.04273953
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+बाबू जी खाना खा रहे थे
+Emotion predictions:
+joy -0.12137098
+suspense -0.00025764853
+anger 0.26101783
+sadness 0.017401733
+neutral 0.10627606
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+मैं मुन्नू के पैरों में पीनस की पैजनियाँ बाँध रहा था
+Emotion predictions:
+joy -0.09733728
+suspense 0.02164869
+anger 0.24497798
+sadness 0.017095719
+neutral 0.07793213
+
+1/1 [==============================] - 0s 72ms/step
+Input text:
+एक औरत घूँघट निकाले हुए आयी और आँगन में खड़ी हो गयी
+Emotion predictions:
+joy -0.10605694
+suspense 0.017476317
+anger 0.24548605
+sadness -0.017379273
+neutral 0.07365023
+
+1/1 [==============================] - 0s 73ms/step
+Input text:
+उसके कपड़े फटे हुए और मैले थे, पर गोरी, सुन्दर स्त्री थी
+Emotion predictions:
+joy -0.10146231
+suspense 0.05086892
+anger 0.27511415
+sadness 0.018840197
+neutral 0.11453191
+
+1/1 [==============================] - 0s 72ms/step
+Input text:
+उसने मुझसे पूछा—भैया, बहू जी कहाँ है
+Emotion predictions:
+joy -0.13464245
+suspense -0.059482925
+anger 0.096645266
+sadness -0.056660615
+neutral 0.07527393
+
+1/1 [==============================] - 0s 71ms/step
+Input text:
+मैंने उसके पास जा कर उसका मुँह देखते हुए कहा —तुम कौन हो, क्या बेचती हो
+Emotion predictions:
+joy -0.13640556
+suspense -0.0029236898
+anger 0.15586932
+sadness -0.020330511
+neutral 0.0584907
+
+1/1 [==============================] - 0s 65ms/step
+Input text:
+औरत , कुछ बेचती नहीं हूँ, तुम्हारे लिए ये कमलगट्टे लायी हूँ
+Emotion predictions:
+joy -0.107684314
+suspense 0.0032815821
+anger 0.2123575
+sadness -0.0036091805
+neutral 0.065384895
+
+1/1 [==============================] - 0s 64ms/step
+Input text:
+भैया, तुम्हें तो कमलगट्टे बहुत अच्छे लगते हैं न
+Emotion predictions:
+joy -0.15145627
+suspense -0.056774892
+anger 0.18473622
+sadness 0.00035902113
+neutral 0.079501316
+
+1/1 [==============================] - 0s 64ms/step
+Input text:
+मैंने उसके हाथों से लटकती हुई पोटली को उत्सुक नेत्रों से देख कर पूछा—कहाँ से लायी हो
+Emotion predictions:
+joy -0.124618225
+suspense -0.002681747
+anger 0.23734629
+sadness -0.020306733
+neutral 0.08421054
+
+1/1 [==============================] - 0s 70ms/step
+Input text:
+देखें
+Emotion predictions:
+joy -0.18854639
+suspense 0.076139584
+anger 0.37011757
+sadness -0.0574838
+neutral 0.027379952
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+औरत , तुम्हारे हरकारे ने भेजा है, भैया
+Emotion predictions:
+joy -0.119521275
+suspense -0.07364807
+anger 0.12062063
+sadness -0.009247359
+neutral 0.05241175
+
+1/1 [==============================] - 0s 98ms/step
+Input text:
+मैंने उछल कर पूछा—कजाकी ने
+Emotion predictions:
+joy -0.11506402
+suspense -0.03767903
+anger 0.20165005
+sadness -0.0146920495
+neutral 0.09525897
+
+1/1 [==============================] - 0s 66ms/step
+Input text:
+औरत ने सिर हिला कर 'हाँ' कहा और पोटली खोलने लगी
+Emotion predictions:
+joy -0.1042761
+suspense 0.0124326795
+anger 0.21571499
+sadness -0.0254892
+neutral 0.09000178
+
+1/1 [==============================] - 0s 66ms/step
+Input text:
+इतने में अम्माँ जी भी रसोई से निकल आयीं
+Emotion predictions:
+joy -0.097237244
+suspense 0.02839648
+anger 0.23914786
+sadness 0.0023496374
+neutral 0.08198634
+
+1/1 [==============================] - 0s 69ms/step
+Input text:
+उसने अम्माँ के पैरों का स्पर्श किया
+Emotion predictions:
+joy -0.058611494
+suspense 0.03982289
+anger 0.30821994
+sadness -0.010911856
+neutral 0.06927373
+
+1/1 [==============================] - 0s 74ms/step
+Input text:
+अम्माँ ने पूछा—तू कजाकी की घरवाली है
+Emotion predictions:
+joy -0.12094224
+suspense -0.046006583
+anger 0.1657314
+sadness -0.033035878
+neutral 0.10155777
+
+1/1 [==============================] - 0s 71ms/step
+Input text:
+औरत ने सिर झुका लिया
+Emotion predictions:
+joy -0.06248594
+suspense 0.008917902
+anger 0.26389587
+sadness -0.023395576
+neutral 0.05225476
+
+1/1 [==============================] - 0s 64ms/step
+Input text:
+अम्माँ , आजकल कजाकी क्या करता है
+Emotion predictions:
+joy -0.10402173
+suspense -0.058868133
+anger 0.1271905
+sadness -0.03297411
+neutral 0.06883349
+
+1/1 [==============================] - 0s 66ms/step
+Input text:
+औरत ने रो कर कहा —बहू जी, जिस दिन से आपके पास से आटा ले कर गये हैं, उसी दिन से बीमार पड़े हैं
+Emotion predictions:
+joy -0.18003266
+suspense -0.07622843
+anger 0.11958368
+sadness 0.0026721396
+neutral 0.055413075
+
+1/1 [==============================] - 0s 68ms/step
+Input text:
+बस, भैया-भैया किया करते हैं
+Emotion predictions:
+joy -0.12679902
+suspense -0.05626629
+anger 0.13352986
+sadness 0.037668984
+neutral 0.056989193
+
+1/1 [==============================] - 0s 86ms/step
+Input text:
+भैया ही में उनका मन बसा रहता है
+Emotion predictions:
+joy -0.11135183
+suspense -0.06588997
+anger 0.16491084
+sadness -0.034288388
+neutral 0.08307976
+
+1/1 [==============================] - 0s 77ms/step
+Input text:
+चौंक-चौंक कर 'भैया
+Emotion predictions:
+joy -0.07866392
+suspense -0.008705653
+anger 0.262897
+sadness 0.010333307
+neutral 0.090777844
+
+1/1 [==============================] - 0s 67ms/step
+Input text:
+भैया
+Emotion predictions:
+joy -0.12758291
+suspense -0.06681186
+anger 0.30998543
+sadness 0.004795015
+neutral 0.07975522
+
+1/1 [==============================] - 0s 71ms/step
+Input text:
+' कहते हुए द्वार की ओर दौड़ते हैं
+Emotion predictions:
+joy -0.1479506
+suspense 0.016749717
+anger 0.32423767
+sadness 0.040295295
+neutral 0.015770525
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+न जाने उन्हें क्या हो गया है, बहू जी
+Emotion predictions:
+joy -0.098973915
+suspense -0.022984121
+anger 0.1910282
+sadness -0.013160255
+neutral 0.0890498
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+एक दिन मुझसे कुछ कहा न सुना, घर से चल दिये और एक गली में छिप कर भैया को देखते रहे
+Emotion predictions:
+joy -0.095560186
+suspense -0.0008910969
+anger 0.17604004
+sadness 0.026034057
+neutral 0.079257235
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+जब भैया ने उन्हें देख लिया, तो भागे
+Emotion predictions:
+joy -0.07464458
+suspense 0.036455452
+anger 0.27732772
+sadness -0.025881588
+neutral 0.0862908
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+तुम्हारे पास आते हुए लजाते हैं
+Emotion predictions:
+joy -0.18002306
+suspense -0.008324772
+anger 0.19207816
+sadness 0.040264897
+neutral 0.09485406
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मैंने कहा —हाँ-हाँ, मैंने उस दिन तुमसे जो कहा था अम्माँ जी
+Emotion predictions:
+joy -0.0762988
+suspense -0.030004233
+anger 0.23546705
+sadness -0.0038563795
+neutral 0.09807587
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+अम्माँ , घर में कुछ खाने-पीने को है
+Emotion predictions:
+joy -0.10283944
+suspense -0.05705484
+anger 0.14775537
+sadness -0.01086501
+neutral 0.0440964
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+औरत , हाँ बहू जी, तुम्हारे आसिरवाद से खाने-पीने का दु:ख नहीं है
+Emotion predictions:
+joy -0.10519626
+suspense -0.018637344
+anger 0.21737553
+sadness -0.03760399
+neutral 0.08506727
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+आज सबेरे उठे और तालाब की ओर चले गये
+Emotion predictions:
+joy -0.108965866
+suspense 0.033101127
+anger 0.22123258
+sadness -0.02392273
+neutral 0.0865802
+
+1/1 [==============================] - 0s 46ms/step
+Input text:
+बहुत कहती रही, बाहर मत जाओ, हवा लग जायगी
+Emotion predictions:
+joy -0.08849821
+suspense 0.025080826
+anger 0.18018487
+sadness -0.009043295
+neutral 0.09235524
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+मगर न माने
+Emotion predictions:
+joy -0.03041165
+suspense -0.03350316
+anger 0.24501449
+sadness 0.011521284
+neutral 0.110752165
+
+1/1 [==============================] - 0s 45ms/step
+Input text:
+मारे कमजोरी के पैर काँपने लगते हैं, मगर तालाब में घुस कर ये कमलगट्टे तोड़ लाये
+Emotion predictions:
+joy -0.1469008
+suspense -0.011371825
+anger 0.21901426
+sadness 0.01439843
+neutral 0.06796972
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+तब मुझसे कहा —ले जा, भैया को दे आ
+Emotion predictions:
+joy -0.08279484
+suspense -0.038369976
+anger 0.17434266
+sadness -0.017597571
+neutral 0.06334569
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+उन्हें कमलगट्टे बहुत अच्छे लगते हैं
+Emotion predictions:
+joy -0.11703343
+suspense 0.013904963
+anger 0.28342977
+sadness 0.00047913194
+neutral 0.09791873
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+कुशल-छेम पूछती आना
+Emotion predictions:
+joy -0.1035432
+suspense -0.04147274
+anger 0.15085223
+sadness -0.028980095
+neutral 0.079660356
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+मैंने पोटली से कमलगट्टे निकाल लिये थे और मजे से चख रहा था
+Emotion predictions:
+joy -0.10451126
+suspense 0.018215403
+anger 0.2588681
+sadness 0.001208391
+neutral 0.07523441
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+अम्माँ ने बहुत आँखें दिखायीं, मगर यहाँ इतनी सब्र कहाँ
+Emotion predictions:
+joy -0.12405473
+suspense -0.032541156
+anger 0.15604474
+sadness 0.0025574118
+neutral 0.06833892
+
+1/1 [==============================] - 0s 45ms/step
+Input text:
+अम्माँ ने कहा —कह देना सब कुशल है
+Emotion predictions:
+joy -0.12938811
+suspense -0.07593106
+anger 0.15952198
+sadness -0.047358524
+neutral 0.09983332
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+मैंने कहा —यह भी कह देना कि भैया ने बुलाया है
+Emotion predictions:
+joy -0.18262434
+suspense -0.084012434
+anger 0.09502638
+sadness -0.02766192
+neutral 0.07374601
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+न जाओगे तो फिर तुमसे कभी न बोलेंगे, हाँ
+Emotion predictions:
+joy -0.10290214
+suspense -0.05584698
+anger 0.10262723
+sadness -0.008345798
+neutral 0.08264997
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+बाबू जी खाना खा कर निकल आये थे
+Emotion predictions:
+joy -0.11449528
+suspense -0.004516352
+anger 0.26121482
+sadness 0.015153047
+neutral 0.10636711
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+तौलिये से हाथ-मुँह पोंछते हुए बोले —  और यह भी कह देना कि साहब ने तुमको बहाल कर दिया है
+Emotion predictions:
+joy -0.10311289
+suspense -0.01581192
+anger 0.1974982
+sadness -0.057451747
+neutral 0.09167205
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+जल्दी जाओ, नहीं तो कोई दूसरा आदमी रख लिया जायगा
+Emotion predictions:
+joy -0.07081779
+suspense 0.015233189
+anger 0.2206567
+sadness -0.022609666
+neutral 0.0748443
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+औरत ने अपना कपड़ा उठाया और चली गयी
+Emotion predictions:
+joy -0.093049385
+suspense 0.07526403
+anger 0.3056201
+sadness -0.0034174323
+neutral 0.066584915
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+अम्माँ ने बहुत पुकारा, पर वह न रुकी
+Emotion predictions:
+joy -0.100283116
+suspense -0.024467066
+anger 0.16680221
+sadness -0.0076910853
+neutral 0.07702541
+
+1/1 [==============================] - 0s 41ms/step
+Input text:
+शायद अम्माँ जी उसे सीधा देना चाहती थीं
+Emotion predictions:
+joy -0.12457509
+suspense 0.048154578
+anger 0.24650441
+sadness 0.013122082
+neutral 0.11226834
+
+1/1 [==============================] - 0s 43ms/step
+Input text:
+अम्माँ ने पूछा—सचमुच बहाल हो गया
+Emotion predictions:
+joy -0.10306756
+suspense -0.0049631745
+anger 0.24363025
+sadness -0.07825659
+neutral 0.098395914
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+बाबू जी , और क्या झूठे ही बुला रहा हूँ
+Emotion predictions:
+joy -0.11047656
+suspense -0.009772256
+anger 0.21176553
+sadness -0.01894997
+neutral 0.07251797
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+मैंने तो पाँचवें ही दिन बहाली की रिपोर्ट की थी
+Emotion predictions:
+joy -0.14704695
+suspense -0.026246218
+anger 0.21624747
+sadness 0.008579355
+neutral 0.068939894
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+अम्माँ , यह तुमने अच्छा किया
+Emotion predictions:
+joy -0.08235735
+suspense -0.021976203
+anger 0.21097751
+sadness -0.026152115
+neutral 0.07649078
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+बाबू जी , उसकी बीमारी की यही दवा है
+Emotion predictions:
+joy -0.10671817
+suspense -0.03852742
+anger 0.2304361
+sadness -0.017768253
+neutral 0.07426475
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+प्रात:काल मैं उठा, तो क्या देखता हूँ कि कजाकी लाठी टेकता हुआ चला आ रहा है
+Emotion predictions:
+joy -0.13065495
+suspense -0.049716752
+anger 0.14743344
+sadness -0.031344604
+neutral 0.07042034
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+वह बहुत दुबला हो गया था, मालूम होता था, बूढ़ा हो गया है
+Emotion predictions:
+joy -0.09513138
+suspense -0.014457986
+anger 0.19013368
+sadness -0.03499293
+neutral 0.086438656
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+हरा-भरा पेड़ सूख कर ठूँठा हो गया था
+Emotion predictions:
+joy -0.056795355
+suspense 0.024043467
+anger 0.3066633
+sadness -0.036178015
+neutral 0.09371662
+
+1/1 [==============================] - 0s 45ms/step
+Input text:
+मैं उसकी ओर दौड़ा और उसकी कमर से चिमट गया
+Emotion predictions:
+joy -0.10206963
+suspense 0.024199508
+anger 0.25929573
+sadness -0.015254218
+neutral 0.052979067
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+कजाकी ने मेरे गाल चूमे और मुझे उठा कर कन्धो पर बैठालने की चेष्टा करने लगा; पर मैं न उठ सका
+Emotion predictions:
+joy -0.057204373
+suspense 0.047201276
+anger 0.24384521
+sadness -0.0039921924
+neutral 0.081080705
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+तब वह जानवरों की भाँति भूमि पर हाथों और घुटनों के बल खड़ा हो गया और मैं उसकी पीठ पर सवार हो कर डाकखाने की ओर चला
+Emotion predictions:
+joy -0.08578033
+suspense 0.031456325
+anger 0.26411197
+sadness -0.018034436
+neutral 0.08478328
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+मैं उस वक्त फूला न समाता था और शायद कजाकी मुझसे भी ज्यादा खुश था
+Emotion predictions:
+joy -0.10810281
+suspense -0.009981025
+anger 0.2074758
+sadness 0.006014794
+neutral 0.073362485
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+बाबू जी ने कहा —कजाकी, तुम बहाल हो गये
+Emotion predictions:
+joy -0.08265292
+suspense 0.010201562
+anger 0.2023048
+sadness -0.050266933
+neutral 0.09996334
+
+1/1 [==============================] - 0s 40ms/step
+Input text:
+अब कभी देर न करना
+Emotion predictions:
+joy -0.06449752
+suspense -0.024339467
+anger 0.24463232
+sadness -0.024583515
+neutral 0.11663053
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+कजाकी रोता हुआ पिता जी के पैरों पर गिर पड़ा; मगर शायद मेरे भाग्य में दोनों सुख भोगना न लिखा था , मुन्नू मिला, तो कजाकी छूटा; कजाकी आया तो मुन्नू हाथ से गया और ऐसा गया कि आज तक उसके जाने का दु:ख है
+Emotion predictions:
+joy -0.027180932
+suspense -0.16763961
+anger -0.3074733
+sadness 0.18808043
+neutral -0.026021514
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+मुन्नू मेरी ही थाली में खाता था
+Emotion predictions:
+joy -0.07994771
+suspense 0.007678721
+anger 0.22334717
+sadness 0.0074149817
+neutral 0.06781447
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+जब तक मैं खाने न बैठूँ, वह भी कुछ न खाता था
+Emotion predictions:
+joy -0.06738374
+suspense 0.00060416013
+anger 0.21461174
+sadness 0.011583246
+neutral 0.124677174
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+उसे भात से बहुत ही रुचि थी; लेकिन जब तक खूब घी न पड़ा हो, उसे संतोष न होता था
+Emotion predictions:
+joy -0.07929046
+suspense 0.049364436
+anger 0.22498523
+sadness -0.02530019
+neutral 0.10156937
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+वह मेरे ही साथ सोता था और मेरे ही साथ उठता भी था
+Emotion predictions:
+joy -0.08748023
+suspense -0.009861201
+anger 0.22398359
+sadness 0.023852155
+neutral 0.09288198
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+सफाई तो उसे इतनी पसंद थी कि मल-मूत्रा त्याग करने के लिए घर से बाहर मैदान में निकल जाता था
+Emotion predictions:
+joy -0.101074725
+suspense 0.030267261
+anger 0.26292488
+sadness -0.0087333135
+neutral 0.06708432
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+कुत्तों से उसे चिढ़ थी, कुत्तों को घर में न घुसने देता
+Emotion predictions:
+joy -0.068742
+suspense -0.001093179
+anger 0.18892142
+sadness -0.030375414
+neutral 0.07010995
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+कुत्ते को देखते ही थाली से उठ जाता और उसे दौड़ कर घर से बाहर निकाल देता था
+Emotion predictions:
+joy -0.100856796
+suspense -0.021948187
+anger 0.3020745
+sadness -0.018247996
+neutral 0.09120886
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+कजाकी को डाकखाने में छोड़ कर जब मैं खाना खाने गया, तो मुन्नू भी आ बैठा
+Emotion predictions:
+joy -0.10511808
+suspense 0.01746134
+anger 0.24833092
+sadness -0.010270458
+neutral 0.07753663
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+अभी दो-चार ही कौर खाये थे कि एक बड़ा-सा झबरा कुत्ता आँगन में दिखायी दिया
+Emotion predictions:
+joy -0.081900634
+suspense 0.005842589
+anger 0.26961
+sadness 0.03035621
+neutral 0.04651882
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+मुन्नू उसे देखते ही दौड़ा
+Emotion predictions:
+joy -0.12055808
+suspense -0.045877304
+anger 0.18030912
+sadness -0.026615918
+neutral 0.10535213
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+दूसरे घर में जा कर कुत्ता चूहा हो जाता है
+Emotion predictions:
+joy -0.10377629
+suspense -0.008002758
+anger 0.27635214
+sadness -0.024481237
+neutral 0.07788493
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+झबरा कुत्ता उसे आते देख कर भागा
+Emotion predictions:
+joy -0.14849207
+suspense -0.014826801
+anger 0.25619328
+sadness -0.008405369
+neutral 0.03910142
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मुन्नू को अब लौट आना चाहिए था; मगर वह कुत्ता उसके लिए यमराज का दूत था
+Emotion predictions:
+joy -0.09526047
+suspense -0.035362553
+anger 0.132631
+sadness -0.021670833
+neutral 0.03999466
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मुन्नू को उसे घर से निकाल कर भी संतोष न हुआ
+Emotion predictions:
+joy -0.07454752
+suspense -0.019118119
+anger 0.23856758
+sadness -0.060743764
+neutral 0.059241243
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+वह उसे घर के बाहर मैदान में भी दौड़ाने लगा
+Emotion predictions:
+joy -0.14906897
+suspense -0.021753918
+anger 0.159504
+sadness 0.010607801
+neutral 0.101072565
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मुन्नू को शायद खयाल न रहा कि यहाँ मेरी अमलदारी नहीं है
+Emotion predictions:
+joy -0.09707874
+suspense -0.006686326
+anger 0.22954722
+sadness -0.02589364
+neutral 0.096144415
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+वह उस क्षेत्रा में पहुँच गया था, जहाँ झबरे का भी उतना ही अधिकार था, जितना मुन्नू का
+Emotion predictions:
+joy -0.06807752
+suspense 0.038615577
+anger 0.2843482
+sadness 0.011901125
+neutral 0.0597616
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+मुन्नू कुत्तों को भगाते-भगाते कदाचित् अपने बाहुबल पर घमंड करने लगा था
+Emotion predictions:
+joy -0.11539407
+suspense -0.015938709
+anger 0.23071325
+sadness -0.030122433
+neutral 0.08446306
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+वह यह न समझता था कि घर में उसकी पीठ पर घर के स्वामी का भय काम किया करता है
+Emotion predictions:
+joy -0.13619594
+suspense -0.05035872
+anger 0.17494649
+sadness -0.0010419115
+neutral 0.070243254
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+झबरे ने इस मैदान में आते ही उलट कर मुन्नू की गरदन दबा दी
+Emotion predictions:
+joy -0.09180535
+suspense 0.010361183
+anger 0.2690438
+sadness -0.04572055
+neutral 0.051720515
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+बेचारे मुन्नू के मुँह से आवाज तक न निकली
+Emotion predictions:
+joy -0.09004801
+suspense 0.03993
+anger 0.25071266
+sadness 0.004387766
+neutral 0.0629853
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+जब पड़ोसियों ने शोर मचाया, तो मैं दौड़ा
+Emotion predictions:
+joy -0.10351797
+suspense 0.011386499
+anger 0.23673417
+sadness -0.01947429
+neutral 0.11723578
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+देखा, तो मुन्नू मरा पड़ा है और झबरे का कहीं पता नहीं
+Emotion predictions:
+joy -0.114559725
+suspense 0.0004347004
+anger 0.2332584
+sadness -0.032409154
+neutral 0.09191208
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+सोनजुही में आज एक पीली कली लगी है
+Emotion predictions:
+joy -0.061852083
+suspense 0.056370564
+anger 0.31120187
+sadness -6.3329935e-06
+neutral 0.09681321
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+इसे देखकर अनायास ही उस छोटे जीव का स्मरण हो आया, जो इस लता की सघन हरीतिमा में छिपकर बैठता था और फिर मेरे निकट पहुँचते ही कंधे पर कूदकर मुझे चौंका देता था
+Emotion predictions:
+joy -0.00829355
+suspense -0.1601479
+anger -0.31452763
+sadness 0.18229418
+neutral -0.032926448
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+तब मुझे कली की खोज रहती थी, पर आज उस लघुप्राण की खोज है
+Emotion predictions:
+joy -0.09850828
+suspense -0.010146592
+anger 0.24922457
+sadness -0.009428225
+neutral 0.06562328
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+परंतु वह तो अब तक इस सोनजुही की जड़ में मिट्टी होकर मिल गया होगा
+Emotion predictions:
+joy -0.121008664
+suspense -0.005915217
+anger 0.2887385
+sadness -0.02354297
+neutral 0.06589301
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+कौन जाने स्वर्णिम कली के बहाने वही मुझे चौंकाने ऊपर आ गया हो
+Emotion predictions:
+joy -0.0924945
+suspense -0.0049705096
+anger 0.18381152
+sadness -0.03123485
+neutral 0.0565375
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+अचानक एक दिन सवेरे कमरे से बरामदे में आकर मैंने देखा, दो कौवे एक गमले के चारों ओर चोंचों से छूआ-छुऔवल जैसा खेल खेल रहे हैं
+Emotion predictions:
+joy -0.07671938
+suspense -0.11882693
+anger -0.25045842
+sadness 0.20445311
+neutral -0.018291868
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+यह काकभुशुंडि भी विचित्र पक्षी है - एक साथ समादरित, अनादरित, अति सम्मानित, अति अवमानित
+Emotion predictions:
+joy -0.1269853
+suspense -0.02030334
+anger 0.23165628
+sadness -0.03487115
+neutral 0.05776313
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+हमारे बेचारे पुरखे न गरूड़ के रूप में आ सकते हैं, न मयूर के, न हंस के
+Emotion predictions:
+joy -0.107297525
+suspense 0.034225985
+anger 0.31066743
+sadness 0.04235585
+neutral 0.08771998
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+उन्हें पितरपक्ष में हमसे कुछ पाने के लिए काक बनकर ही अवतीर्ण होना पड़ता है
+Emotion predictions:
+joy -0.11355606
+suspense -0.039404295
+anger 0.2031277
+sadness -0.053619236
+neutral 0.116085105
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+इतना ही नहीं हमारे दूरस्थ प्रियजनों को भी अपने आने का मधु संदेश इनके कर्कश स्वर में ही देना पड़ता है
+Emotion predictions:
+joy -0.14105985
+suspense -0.068374686
+anger 0.17567936
+sadness -0.03661921
+neutral 0.08129395
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+दूसरी ओर हम कौवा और काँव-काँव करने को अवमानना के अर्थ में ही प्रयुक्त करते हैं
+Emotion predictions:
+joy -0.13710469
+suspense -0.0012387931
+anger 0.2396621
+sadness -0.0036106482
+neutral 0.08129164
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+मेरे काकपुराण के विवेचन में अचानक बाधा आ पड़ी, क्योंकि गमले और दीवार की संधि में छिपे एक छोटे-से जीव पर मेरी दृष्टि रफ़क गई
+Emotion predictions:
+joy -0.09531873
+suspense 0.001795657
+anger 0.22687046
+sadness -0.019539587
+neutral 0.05122061
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+निकट जाकर देखा, गिलहरी का छोटा-सा बच्चा है जो संभवतः घोंसले से गिर पड़ा है और अब कौवे जिसमें सुलभ आहार खोज रहे हैं
+Emotion predictions:
+joy -0.18473755
+suspense -0.08987771
+anger 0.13962266
+sadness 0.008400515
+neutral 0.08408153
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+काकद्वय की चोंचों के दो घाव उस लघुप्राण के लिए बहुत थे, अतः वह निश्चेष्ट-सा गमले से चिपटा पड़ा था
+Emotion predictions:
+joy -0.13267817
+suspense -0.032786466
+anger 0.2059809
+sadness -0.036502182
+neutral 0.0756567
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+सबने कहा, कौवे की चोंच का घाव लगने के बाद यह बच नहीं सकता, अतः इसे ऐसे ही रहने दिया जावे
+Emotion predictions:
+joy -0.07183039
+suspense 0.019367147
+anger 0.26247147
+sadness -0.021130968
+neutral 0.06837517
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+परंतु मन नहीं माना -उसे हौले से उठाकर अपने कमरे में लाई, फिर रूई से रक्त पोंछकर घावों पर पेंसिलिन का मरहम लगाया
+Emotion predictions:
+joy -0.05555282
+suspense 0.008464258
+anger 0.25272807
+sadness -0.031004384
+neutral 0.05254761
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+रूई की पतली बत्ती दूध से भिगोकर जैसे-तैसे उसके नन्हे से मुँह में लगाई पर मुँह खुल न सका और दूध की बूँदें दोनों ओर ढुलक गईं
+Emotion predictions:
+joy -0.07151598
+suspense -0.14473268
+anger -0.22653815
+sadness 0.19581938
+neutral -0.03465242
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+कई घंटे के उपचार के उपरांत उसके मुँह में एक बूँद पानी टपकाया जा सका
+Emotion predictions:
+joy -0.05007953
+suspense 0.006624479
+anger 0.26933694
+sadness 0.03452141
+neutral 0.04000014
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+तीसरे दिन वह इतना अच्छा और आश्वस्त हो गया कि मेरी उँगली अपने दो नन्हे पंजों से पकड़कर, नीले काँच के मोतियों जैसी आँखों से इधर-उधर देखने लगा
+Emotion predictions:
+joy -0.03145331
+suspense -0.13236165
+anger -0.29856655
+sadness 0.25007498
+neutral 0.00925377
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+तीन-चार मास में उसके स्निग्ध रोए, झब्बेदार पूँछ और चंचल चमकीली आँखें सबको विस्मित करने लगीं
+Emotion predictions:
+joy -0.12747648
+suspense 0.05359859
+anger 0.23674838
+sadness 0.022765629
+neutral 0.087878495
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+हमने उसकी जातिवाचक संज्ञा को व्यक्तिवाचक का रूप दे दिया और इस प्रकार हम उसे गिल्लू कहकर बुलाने लगे
+Emotion predictions:
+joy -0.079681545
+suspense -0.012366451
+anger 0.25103003
+sadness -0.017520975
+neutral 0.056051817
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+मैंने फूल रखने की एक हलकी डलिया में रूई बिछाकर उसे तार से खिड़की पर लटका दिया
+Emotion predictions:
+joy -0.119105
+suspense 0.01573091
+anger 0.23964249
+sadness 0.0024005994
+neutral 0.08169368
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+वही दो वर्ष गिल्लू का घर रहा
+Emotion predictions:
+joy -0.1507795
+suspense -0.052811593
+anger 0.20522371
+sadness 0.010798976
+neutral 0.09436908
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+वह स्वयं हिलाकर अपने घर में झूलता और अपनी काँच के मनकों -सी आँखों से कमरे के भीतर और खिड़की से बाहर न जाने क्या देखता-समझता रहता था
+Emotion predictions:
+joy -0.22113049
+suspense -0.08697893
+anger 0.100537896
+sadness 0.029121552
+neutral 0.06865334
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+परंतु उसकी समझदारी और कार्यकलाप पर सबको आश्चर्य होता था
+Emotion predictions:
+joy -0.06743801
+suspense 0.08457972
+anger 0.30867857
+sadness 0.03559055
+neutral 0.108674675
+
+1/1 [==============================] - 0s 46ms/step
+Input text:
+जब मैं लिखने बैठती तब अपनी ओर मेरा ध्यान आकर्षित करने की उसे इतनी तीव्र इच्छा होती थी कि उसने एक अच्छा उपाय खोज निकाला
+Emotion predictions:
+joy -0.08789847
+suspense 0.010316987
+anger 0.19264787
+sadness 0.015262257
+neutral 0.08900648
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+वह मेरे पैर तक आकर सर्र से परदे पर चढ़ जाता और फिर उसी तेजी से उतरता
+Emotion predictions:
+joy -0.112526305
+suspense 0.016143315
+anger 0.26053104
+sadness -0.02835979
+neutral 0.097268775
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+उसका यह दौड़ने का क्रम तब तक चलता जब तक मैं उसे पकड़ने के लिए न उठती
+Emotion predictions:
+joy -0.1120995
+suspense -0.019998811
+anger 0.1551888
+sadness -0.052849602
+neutral 0.08309196
+
+1/1 [==============================] - 0s 83ms/step
+Input text:
+कभी मैं गिल्लू को पकड़कर एक लंबे लिफ़ाफ़े में इस प्रकार रख देती कि उसके अगले दो पंजों और सिर के अतिरिक्त सारा लघुगात लिफ़ाफ़े के भीतर बंद रहता
+Emotion predictions:
+joy -0.17045231
+suspense -0.042480603
+anger 0.20790628
+sadness -0.003522914
+neutral 0.08196513
+
+1/1 [==============================] - 0s 77ms/step
+Input text:
+इस अद्भुत स्थिति में कभी-कभी घंटों मेज़ पर दीवार के सहारे खड़ा रहकर वह अपनी चमकीली आँखों से मेरा कार्यकलाप देखा करता
+Emotion predictions:
+joy -0.25232625
+suspense -0.03847849
+anger 0.14102197
+sadness 0.033865727
+neutral 0.078259505
+
+1/1 [==============================] - 0s 78ms/step
+Input text:
+भूख लगने पर चिक-चिक करके मानो वह मुझे सूचना देता और काजू या बिस्कुट मिल जाने पर उसी स्थिति में लिफ़ाफ़े से बाहर वाले पंजों से पकड़कर उसे कुतरता रहता
+Emotion predictions:
+joy -0.04536838
+suspense -0.17389749
+anger -0.27816412
+sadness 0.19341159
+neutral -0.033365812
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+फिर गिल्लू के जीवन का प्रथम बसंत आया
+Emotion predictions:
+joy -0.08274992
+suspense -0.0034615286
+anger 0.29327112
+sadness -0.047077533
+neutral 0.087662235
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+नीम-चमेली की गंध मेरे कमरे में हौले-हौले आने लगी
+Emotion predictions:
+joy -0.07549082
+suspense -0.022833921
+anger 0.16926557
+sadness 0.008784242
+neutral 0.07073182
+
+1/1 [==============================] - 0s 69ms/step
+Input text:
+बाहर की गिलहरियां खिड़की की जाली के पास आकर चिक-चिक करके न जाने क्या कहने लगीं
+Emotion predictions:
+joy -0.14312345
+suspense 0.0012159199
+anger 0.20470542
+sadness 0.030937329
+neutral 0.09020722
+
+1/1 [==============================] - 0s 80ms/step
+Input text:
+गिल्लू को जाली के पास बैठकर अपनेपन से बाहर झाँकते देखकर मुझे लगा कि इसे मुक्त करना आवश्यक है
+Emotion predictions:
+joy -0.07518091
+suspense 0.0041538365
+anger 0.21663594
+sadness -0.03267871
+neutral 0.077543
+
+1/1 [==============================] - 0s 70ms/step
+Input text:
+मैंने कीलें निकालकर जाली का एक कोना खोल दिया और इस मार्ग से गिल्लू ने बाहर जाने पर सचमुच ही मुक्ति की साँस ली
+Emotion predictions:
+joy -0.16699082
+suspense -0.07504225
+anger 0.12581539
+sadness 0.04415617
+neutral 0.021947902
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+इतने छोटे जीव को घर में पले कुत्ते, बिल्लियों से बचाना भी एक समस्या ही थी
+Emotion predictions:
+joy -0.10233879
+suspense 0.03973096
+anger 0.25213087
+sadness 0.013269108
+neutral 0.0914475
+
+1/1 [==============================] - 0s 65ms/step
+Input text:
+आवश्यक कागज़ -पत्रों के कारण मेरे बाहर जाने पर कमरा बंद ही रहता है
+Emotion predictions:
+joy -0.074281484
+suspense -0.01685829
+anger 0.23733146
+sadness 0.017877828
+neutral 0.09705044
+
+1/1 [==============================] - 0s 69ms/step
+Input text:
+मेरे कालेज से लौटने पर जैसे ही कमरा खोला गया और मैंने भीतर पैर रखा, वैसे ही गिल्लू अपने जाली के द्वार से भीतर आकर मेरे पैर से सिर और सिर से पैर तक दौड़ लगाने लगा
+Emotion predictions:
+joy -0.034595102
+suspense -0.09902088
+anger -0.23240303
+sadness 0.25258848
+neutral 0.012133554
+
+1/1 [==============================] - 0s 80ms/step
+Input text:
+तब से यह नित्य का क्रम हो गया
+Emotion predictions:
+joy -0.1347783
+suspense -0.081391945
+anger 0.2260694
+sadness -0.06889432
+neutral -0.006831821
+
+1/1 [==============================] - 0s 82ms/step
+Input text:
+मेरे कमरे से बाहर जाने पर गिल्लू भी खिड़की की खुली जाली की राह बाहर चला जाता और दिन भर गिलहरियों के झुंड का नेता बना हर डाल पर उछलता-कूदता रहता और ठीक चार बजे वह खिड़की से भीतर आकर अपने झूले में झूलने लगता
+Emotion predictions:
+joy -0.030069575
+suspense -0.14153892
+anger -0.29843953
+sadness 0.21002516
+neutral -0.024394706
+
+1/1 [==============================] - 0s 67ms/step
+Input text:
+मुझे चौंकाने की इच्छा उसमें न जाने कब और कैसे उत्पन्न हो गई थी
+Emotion predictions:
+joy -0.08701716
+suspense -0.029196661
+anger 0.15326948
+sadness 0.013783317
+neutral 0.056879453
+
+1/1 [==============================] - 0s 85ms/step
+Input text:
+कभी फूलदान के फूलों में छिप जाता, कभी परदे की चुन्नट में और कभी सोनजुही की पत्तियों में
+Emotion predictions:
+joy -0.03407017
+suspense 0.1419847
+anger 0.46366572
+sadness 0.03952498
+neutral 0.12344147
+
+1/1 [==============================] - 0s 76ms/step
+Input text:
+मेरे पास बहुत से पशु-पक्षी हैं और उनका मुझसे लगाव भी कम नहीं है, परंतु उनमें से किसी को मेरे साथ मेरी थाली में खाने की हिम्मत हुई है, ऐसा मुझे स्मरण नहीं आता
+Emotion predictions:
+joy -0.10602695
+suspense 0.007543672
+anger 0.20918666
+sadness -0.019932918
+neutral 0.10157445
+
+1/1 [==============================] - 0s 65ms/step
+Input text:
+गिल्लू इनमें अपवाद था
+Emotion predictions:
+joy -0.092051685
+suspense -0.025605954
+anger 0.2884621
+sadness -0.010025188
+neutral 0.035203718
+
+1/1 [==============================] - 0s 79ms/step
+Input text:
+मैं जैसे ही खाने के कमरे में पहुँचती, वह खिड़की से निकलकर आँगन की दीवार, बरामदा पार करके मेज़ पर पहुंच जाता और मेरी थाली में बैठ जाना चाहता
+Emotion predictions:
+joy -0.07579866
+suspense 0.008922931
+anger 0.19529271
+sadness 0.0042770244
+neutral 0.1054368
+
+1/1 [==============================] - 0s 68ms/step
+Input text:
+बड़ी कठिनाई से मैंने उसे थाली के पास बैठना सिखाया जहां बैठकर वह मेरी थाली में से एक-एक चावल उठाकर बड़ी सफ़ाई से खाता रहता
+Emotion predictions:
+joy -0.13481376
+suspense -0.037581623
+anger 0.16564713
+sadness -0.028855346
+neutral 0.10348576
+
+1/1 [==============================] - 0s 92ms/step
+Input text:
+काजू उसका प्रिय खाद्य था और कई दिन काजू न मिलने पर वह अन्य खाने की चीजें या तो लेना बंद कर देता या झूले से नीचे फेंक देता था
+Emotion predictions:
+joy -0.20098758
+suspense -0.06891793
+anger 0.13463457
+sadness 0.09853129
+neutral -0.011295246
+
+1/1 [==============================] - 0s 67ms/step
+Input text:
+उसी बीच मुझे मोटर दुर्घटना में आहत होकर कुछ दिन अस्पताल में रहना पड़ा
+Emotion predictions:
+joy -0.10797835
+suspense -0.025508001
+anger 0.20226015
+sadness -0.011624839
+neutral 0.15133412
+
+1/1 [==============================] - 0s 84ms/step
+Input text:
+उन दिनों जब मेरे कमरे का दरवाजा खोला जाता गिल्लू अपने झूले से उतरकर दौड़ता और फिर किसी दूसरे को देखकर उसी तेज़ी से अपने घोंसले में जा बैठता
+Emotion predictions:
+joy -0.10136846
+suspense 0.0073292106
+anger 0.25693032
+sadness -0.0174672
+neutral 0.10105348
+
+1/1 [==============================] - 0s 83ms/step
+Input text:
+सब उसे काजू दे आते, परंतु अस्पताल से लौटकर जब मैंने उसके झूले की सफ़ाई की तो उसमें काजू भरे मिले, जिनसे ज्ञात होता था कि वह उन दिनों अपना प्रिय खाद्य कितना कम खाता रहा
+Emotion predictions:
+joy 0.004508838
+suspense -0.13600153
+anger -0.3541544
+sadness 0.22238599
+neutral -0.040809922
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+मेरी अस्वस्थता में वह तकिए पर सिरहाने बैठकर अपने नन्हे-नन्हे पंजों से मेरे सिर और बालों को इतने हौले-हौले सहलाता रहता कि उसका हटना एक परिचारिका के हटने के समान लगता
+Emotion predictions:
+joy -0.029961593
+suspense -0.14222269
+anger -0.26738116
+sadness 0.22759746
+neutral -0.0047177225
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+गरमियों में जब मैं दोपहर में काम करती रहती तो गिल्लू न बाहर जाता न अपने झूले में बैठता
+Emotion predictions:
+joy -0.08792934
+suspense 0.04911275
+anger 0.28933513
+sadness 0.007224951
+neutral 0.09436798
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+उसने मेरे निकट रहने के साथ गरमी से बचने का एक सर्वथा नया उपाय खोज निकाला था
+Emotion predictions:
+joy -0.072848655
+suspense 0.024898019
+anger 0.2715215
+sadness 0.004068285
+neutral 0.07806307
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+वह मेरे पास रखी सुराही पर लेट जाता और इस प्रकार समीप भी रहता और ठंडक में भी रहता
+Emotion predictions:
+joy -0.132579
+suspense -0.015789451
+anger 0.22135177
+sadness -0.02104203
+neutral 0.10401707
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+गिलहरियों के जीवन की अवधि दो वर्ष से अधिक नहीं होती, अतः गिल्लू की जीवन यात्रा का अंत आ ही गया
+Emotion predictions:
+joy -0.086092144
+suspense 0.06473966
+anger 0.3711289
+sadness -0.021756753
+neutral 0.100109585
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+दिन भर उसने न कुछ खाया न बाहर गया
+Emotion predictions:
+joy -0.05392087
+suspense 0.019811463
+anger 0.23526132
+sadness 0.03145374
+neutral 0.05158263
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+रात में अंत की यातना में भी वह अपने झूले से उतरकर मेरे बिस्तर पर आया और ठंडे पंजों से मेरी वही उँगली पकड़कर हाथ से चिपक गया, जिसे उसने अपने बचपन की मरणासन्न स्थिति में पकड़ा था
+Emotion predictions:
+joy -0.03963592
+suspense -0.13770036
+anger -0.2924709
+sadness 0.21061078
+neutral 0.001651451
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+पंजे इतने ठंडे हो रहे थे कि मैंने जागकर हीटर जलाया और उसे उष्णता देने का प्रयत्न किया
+Emotion predictions:
+joy -0.0690864
+suspense 0.052422903
+anger 0.28558365
+sadness -0.010558102
+neutral 0.07242645
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+परंतु प्रभात की प्रथम किरण के स्पर्श के साथ ही वह किसी और जीवन में जागने के लिए सो गया
+Emotion predictions:
+joy -0.09789865
+suspense -0.0076589882
+anger 0.21339405
+sadness -0.022438735
+neutral 0.07672313
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+उसका झूला उतारकर रख दिया गया है और खिड़की की जाली बंद कर दी गई है, परंतु गिलहरियों की नयी पीढ़ी जाली के उस पार चिक-चिक करती ही रहती है और सोनजुही पर बसंत आता ही रहता है
+Emotion predictions:
+joy -0.03179853
+suspense -0.16894202
+anger -0.30549294
+sadness 0.20529042
+neutral -0.03731399
+
+1/1 [==============================] - 0s 65ms/step
+Input text:
+सोनजुही की लता के नीचे गिल्लू को समाधि दी गई है - इसलिए भी कि उसे वह लता सबसे अधिक प्रिय थी - इसलिए भी कि उस लघुगात का, किसी वासंती दिन, जुही के पीताभ छोटे फूल में खिल जाने का विश्वास, मुझे संतोष देता है
+Emotion predictions:
+joy -0.04389756
+suspense -0.15599376
+anger -0.2724853
+sadness 0.23584804
+neutral -0.011883929
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+क्या मैं इस बेंच पर बैठ सकती हूँ
+Emotion predictions:
+joy -0.08803353
+suspense 0.015445963
+anger 0.21633792
+sadness -0.004662864
+neutral 0.07740093
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+नहीं, आप उठिए नहीं - मेरे लिए यह कोना ही काफी है
+Emotion predictions:
+joy -0.059292972
+suspense -0.016691089
+anger 0.18382567
+sadness 0.004258223
+neutral 0.09385991
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+आप शायद हैरान होंगे कि मैं दूसरी बेंच पर क्यों नहीं जाती
+Emotion predictions:
+joy -0.12323136
+suspense 0.023861546
+anger 0.28782126
+sadness 0.014517248
+neutral 0.0653389
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+इतना बड़ा पार्क - चारों तरफ खाली बेंचें - मैं आपके पास ही क्यों धँसना चाहती हूँ
+Emotion predictions:
+joy -0.1725166
+suspense -0.082015164
+anger 0.122777484
+sadness 0.022413045
+neutral 0.075227804
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+आप बुरा न मानें, तो एक बात कहूँ - जिस बेंच पर आप बैठे हैं, वह मेरी है
+Emotion predictions:
+joy -0.1520156
+suspense -0.028393656
+anger 0.15664886
+sadness -0.015667208
+neutral 0.09532127
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+जी हाँ, मैं यहाँ रोज बैठती हूँ
+Emotion predictions:
+joy -0.09330232
+suspense 0.009346459
+anger 0.2563213
+sadness 0.004718676
+neutral 0.118415944
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+नहीं, आप गलत न समझें
+Emotion predictions:
+joy -0.07483509
+suspense 0.022432942
+anger 0.22926523
+sadness -0.01634267
+neutral 0.10658138
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+इस बेंच पर मेरा कोई नाम नहीं लिखा है
+Emotion predictions:
+joy -0.122730166
+suspense -0.013403021
+anger 0.27211887
+sadness 0.007416848
+neutral 0.109795
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+भला म्यूनिसिपैलिटी की बेंचों पर नाम कैसा
+Emotion predictions:
+joy -0.11828444
+suspense -0.027698237
+anger 0.28467256
+sadness 0.0063157417
+neutral 0.04694408
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+लोग आते हैं, घड़ी-दो घड़ी बैठते हैं, और फिर चले जाते हैं
+Emotion predictions:
+joy -0.10928245
+suspense 0.04158938
+anger 0.25925532
+sadness 0.015207227
+neutral 0.099066585
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+किसी को याद भी नहीं रहता कि फलाँ दिन फलाँ आदमी यहाँ बैठा था
+Emotion predictions:
+joy -0.06745145
+suspense 0.009296395
+anger 0.2473333
+sadness 0.026020747
+neutral 0.06617146
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+उसके जाने के बाद बेंच पहले की तरह ही खाली हो जाती है
+Emotion predictions:
+joy -0.09871376
+suspense 0.005025957
+anger 0.25931802
+sadness 0.019707829
+neutral 0.05796229
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+जब कुछ देर बाद कोई नया आगंतुक आ कर उस पर बैठता है, तो उसे पता भी नहीं चलता कि उससे पहले वहाँ कोई स्कूल की बच्ची या अकेली बुढ़िया या नशे में धुत्त जिप्सी बैठा होगा
+Emotion predictions:
+joy -0.22371212
+suspense -0.1324415
+anger 0.05859574
+sadness 0.059293017
+neutral 0.048489798
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+नहीं जी, नाम वहीं लिखे जाते हैं, जहाँ आदमी टिक कर रहे - तभी घरों के नाम होते हैं, या फिर क़ब्रों के - हालाँकि कभी-कभी मैं सोचती हूँ कि क़ब्रों पर नाम भी न रहें, तो भी खास अंतर नहीं पड़ता
+Emotion predictions:
+joy -0.08316971
+suspense -0.12673464
+anger -0.24867876
+sadness 0.22944778
+neutral -0.0026097745
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+कोई जीता-जागता आदमी जान-बूझ कर दूसरे की क़ब्र में घुसना पसंद नहीं करेगा
+Emotion predictions:
+joy -0.090066805
+suspense -0.0052071176
+anger 0.16533215
+sadness -0.037370592
+neutral 0.066205606
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+आप उधर देख रहे हैं - घोड़ा-गाड़ी की तरफ
+Emotion predictions:
+joy -0.086696684
+suspense -0.030343216
+anger 0.16678232
+sadness -0.056183606
+neutral 0.11943257
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+नहीं, इसमें हैरानी की कोई बात नहीं
+Emotion predictions:
+joy -0.09918857
+suspense -0.004993057
+anger 0.23358244
+sadness -0.055491284
+neutral 0.03505311
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+शादी-ब्याह के मौकों पर लोग अब भी घोड़ा-गाड़ी इस्तेमाल करते हैं... मैं तो हर रोज देखती हूँ
+Emotion predictions:
+joy -0.06472898
+suspense -0.0044271424
+anger 0.14586492
+sadness 0.007581562
+neutral 0.08405393
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+इसीलिए मैंने यह बेंच अपने लिए चुनी है
+Emotion predictions:
+joy -0.11752067
+suspense 0.046995062
+anger 0.31898248
+sadness 0.0120654255
+neutral 0.09488571
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+यहाँ बैठ कर आँखें सीधी गिरजे पर जाती हैं - आपको अपनी गर्दन टेढ़ी नहीं करनी पड़ती
+Emotion predictions:
+joy -0.14361635
+suspense -0.043557145
+anger 0.12965825
+sadness 0.02271752
+neutral 0.09198697
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+बहुत पुराना गिरजा है
+Emotion predictions:
+joy -0.091880396
+suspense 0.008333622
+anger 0.30524787
+sadness -0.012478266
+neutral 0.076948136
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+इस गिरजे में शादी करवाना बहुत बड़ा गौरव माना जाता है
+Emotion predictions:
+joy -0.09092505
+suspense -0.019712865
+anger 0.26093298
+sadness -0.018430263
+neutral 0.11998947
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+लोग आठ-दस महीने पहले से अपना नाम दर्ज करवा लेते हैं
+Emotion predictions:
+joy -0.06956944
+suspense -0.02235005
+anger 0.2291997
+sadness 0.013519634
+neutral 0.08026618
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+वैसे सगाई और शादी के बीच इतना लंबा अंतराल ठीक नहीं
+Emotion predictions:
+joy -0.07065825
+suspense 0.010199279
+anger 0.2916644
+sadness -0.019052312
+neutral 0.07153009
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+कभी-कभी बीच में मन-मुटाव हो जाता है, और ऐन विवाह के मुहूर्त पर वर-वधू में से कोई भी दिखाई नहीं देता
+Emotion predictions:
+joy -0.09680082
+suspense 0.009382408
+anger 0.23785669
+sadness -0.014881324
+neutral 0.071382895
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+उन दिनों यह जगह सुनसान पड़ी रहती है
+Emotion predictions:
+joy -0.09437731
+suspense -0.026535518
+anger 0.28714365
+sadness 0.00037767366
+neutral 0.112316385
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+न कोई भीड़ न कोई घोड़ा-गाड़ी
+Emotion predictions:
+joy -0.111841455
+suspense -0.05952157
+anger 0.09780998
+sadness -0.049206533
+neutral 0.11211142
+
+1/1 [==============================] - 0s 44ms/step
+Input text:
+भिखारी भी खाली हाथ लौट जाते हैं
+Emotion predictions:
+joy -0.14107057
+suspense -0.018477269
+anger 0.22153394
+sadness -0.004938878
+neutral 0.06683408
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+ऐसे ही एक दिन मैंने सामनेवाली बेंच पर एक लड़की को देखा था
+Emotion predictions:
+joy -0.15172791
+suspense 0.015652504
+anger 0.23305815
+sadness -0.001912754
+neutral 0.08070409
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+अकेली बैठी थी और सूनी आँखों से गिरजे को देख रही थी
+Emotion predictions:
+joy -0.1266666
+suspense 0.024357624
+anger 0.23712943
+sadness 0.014011443
+neutral 0.08522509
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+पार्क में यही एक मुश्किल है
+Emotion predictions:
+joy -0.11203837
+suspense -0.034563754
+anger 0.2337682
+sadness -0.018080916
+neutral 0.05672907
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+इतने खुले में सब अपने-अपने में बंद बैठे रहते हैं
+Emotion predictions:
+joy -0.13700382
+suspense -0.035832874
+anger 0.18418267
+sadness -0.0070554614
+neutral 0.10454634
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+आप किसी के पास जा कर सांत्वना के दो शब्द भी नहीं कह सकते
+Emotion predictions:
+joy -0.13022517
+suspense 0.026781065
+anger 0.30306634
+sadness 0.03173107
+neutral 0.06955917
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+आप दूसरों को देखते हैं, दूसरे आपको
+Emotion predictions:
+joy -0.09419805
+suspense 0.02288232
+anger 0.2431548
+sadness 0.0428415
+neutral 0.07810886
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+शायद इससे भी कोई तसल्ली मिलती होगी
+Emotion predictions:
+joy -0.1153975
+suspense 0.0043750256
+anger 0.22359726
+sadness -0.026595585
+neutral 0.052034527
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+यही कारण है, अकेले कमरे में जब तकलीफ दुश्वार हो जाती है, तो अक्सर लोग बाहर चले आते हैं
+Emotion predictions:
+joy -0.19790204
+suspense -0.07014751
+anger 0.18122631
+sadness 0.059908267
+neutral 0.05580361
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+सड़कों पर
+Emotion predictions:
+joy -0.16661264
+suspense -0.061772335
+anger 0.14212328
+sadness -0.021970395
+neutral 0.08696251
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+पब्लिक पार्क में
+Emotion predictions:
+joy -0.11425241
+suspense 0.0228629
+anger 0.28236833
+sadness 0.03579242
+neutral 0.0712278
+
+1/1 [==============================] - 0s 41ms/step
+Input text:
+किसी पब में
+Emotion predictions:
+joy -0.12527974
+suspense -0.02171767
+anger 0.24180257
+sadness 0.01616573
+neutral 0.075144544
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+वहाँ आपको कोई तसल्ली न भी दे, तो भी आपका दुख एक जगह से मुड़ कर दूसरी तरफ करवट ले लेता है
+Emotion predictions:
+joy -0.20248473
+suspense -0.10595386
+anger 0.13428319
+sadness 0.0037189126
+neutral 0.050593294
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+इससे तकलीफ का बोझ कम नहीं होता; लेकिन आप उसे कुली के सामान की तरह एक कंधे से उठा कर दूसरे कंधे पर रख देते हैं
+Emotion predictions:
+joy -0.0852806
+suspense -0.01713426
+anger 0.24434355
+sadness -0.025848933
+neutral 0.056883782
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+यह क्या कम राहत है
+Emotion predictions:
+joy -0.112471774
+suspense -0.043112457
+anger 0.23658162
+sadness -0.019799575
+neutral 0.0853588
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+मैं तो ऐसा ही करती हूँ - सुबह से ही अपने कमरे से बाहर निकल आती हूँ
+Emotion predictions:
+joy -0.1287635
+suspense 0.03267063
+anger 0.20378423
+sadness -0.0063964427
+neutral 0.07377912
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+नहीं, नहीं - आप गलत न समझें - मुझे कोई तकलीफ नहीं
+Emotion predictions:
+joy -0.058485776
+suspense -0.0060057417
+anger 0.16784692
+sadness -0.03936965
+neutral 0.058641367
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+मैं धूप की ख़ातिर यहाँ आती हूँ - आपने देखा होगा, सारे पार्क में सिर्फ यही एक बेंच है, जो पेड़ के नीचे नहीं है
+Emotion predictions:
+joy -0.16197985
+suspense -0.053422835
+anger 0.18182084
+sadness -0.008054383
+neutral 0.06609956
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+इस बेंच पर एक पत्ता भी नहीं झरता - फिर इसका एक बड़ा फायदा यह भी है कि यहाँ से मैं सीधे गिरजे की तरफ देख सकती हूँ -लेकिन यह शायद मैं आपसे पहले ही कह चुकी हूँ
+Emotion predictions:
+joy -0.07400523
+suspense -0.12852077
+anger -0.269738
+sadness 0.23075448
+neutral -0.00197763
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+आप सचमुच सौभाग्यशाली हैं
+Emotion predictions:
+joy -0.13192351
+suspense -0.0048791543
+anger 0.19494522
+sadness 0.028949771
+neutral 0.05173768
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+पहले दिन यहाँ आए - और सामने घोड़ा-गाड़ी
+Emotion predictions:
+joy -0.112023644
+suspense -0.02544465
+anger 0.11283333
+sadness -0.012833651
+neutral 0.07349938
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+आप देखते रहिए - कुछ ही देर में गिरजे के सामने छोटी-सी भीड़ जमा हो जाएगी
+Emotion predictions:
+joy -0.12273341
+suspense -0.019768618
+anger 0.18055557
+sadness 0.024491757
+neutral 0.052117117
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+उनमें से ज्यादातर लोग ऐसे होते हैं, जो न वर को जानते हैं, न वधू को
+Emotion predictions:
+joy -0.11917524
+suspense -0.02892629
+anger 0.15855187
+sadness 0.06395503
+neutral 0.054412358
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+लेकिन एक झलक पाने के लिए घंटों बाहर खड़े रहते हैं
+Emotion predictions:
+joy -0.09444991
+suspense 0.037048087
+anger 0.26013955
+sadness 0.012682039
+neutral 0.09656333
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+आपके बारे में मुझे मालूम नहीं, लेकिन कुछ चीजों को देखने की उत्सुकता जीवन-भर खत्म नहीं होती
+Emotion predictions:
+joy -0.070943385
+suspense 0.0369434
+anger 0.29370096
+sadness 0.0018523261
+neutral 0.09424822
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+अब देखिए, आप इस पेरेंबुलेटर के आगे बैठे थे
+Emotion predictions:
+joy -0.08453767
+suspense 0.07329901
+anger 0.35452414
+sadness 0.015472971
+neutral 0.0744345
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+पहली इच्छा यह हुई, झाँक कर भीतर देखूँ, जैसे आपका बच्चा औरों से अलग होगा
+Emotion predictions:
+joy -0.09430657
+suspense -0.012819052
+anger 0.20813069
+sadness -0.014942836
+neutral 0.04811278
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+अलग होता नहीं
+Emotion predictions:
+joy -0.10416577
+suspense -0.0279965
+anger 0.2235701
+sadness -0.035974942
+neutral 0.08483276
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+इस उम्र में सारे बच्चे एक जैसे ही होते हैं - मुँह में चूसनी दबाए लेटे रहते हैं
+Emotion predictions:
+joy -0.119654335
+suspense 0.039029118
+anger 0.2632102
+sadness 0.057268284
+neutral 0.09008574
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+फिर भी जब मैं किसी पेरेंबुलेटर के सामने से गुज़रती हूँ, तो एक बार भीतर झाँकने की जबर्दस्त इच्छा होती है
+Emotion predictions:
+joy -0.07843925
+suspense 0.008084908
+anger 0.2548172
+sadness 0.0078974925
+neutral 0.10178965
+
+1/1 [==============================] - 0s 66ms/step
+Input text:
+मुझे यह सोच कर काफी हैरानी होती है कि जो चीजें हमेशा एक जैसी रहती हैं, उनसे ऊबने के बजाय आदमी सबसे ज्यादा उन्हीं को देखना चाहता है, जैसे प्रैम में लेटे बच्चे या नव-विवाहित जोड़े की घोड़ा-गाड़ी या मुर्दों की अर्थी
+Emotion predictions:
+joy -0.0769362
+suspense -0.105356455
+anger -0.23543572
+sadness 0.27682194
+neutral 0.0039977506
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+आपने देखा होगा, ऐसी चीजों के इर्द-गिर्द हमेशा भीड़ जमा हो जाती है
+Emotion predictions:
+joy -0.13966474
+suspense -0.0016512051
+anger 0.21437228
+sadness -0.018277012
+neutral 0.07729214
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+अपना बस हो या न हो, पाँव खुद-ब-खुद उनके पास खिंचे चले आते हैं
+Emotion predictions:
+joy -0.16065155
+suspense -0.04685509
+anger 0.13905884
+sadness 0.057695806
+neutral 0.10040812
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+मुझे कभी-कभी यह सोच कर बड़ा अचरज होता है कि जो चीजें हमें अपनी ज़िंदगी को पकड़ने में मदद देती हैं, वे चीजें हमारी पकड़ के बाहर हैं
+Emotion predictions:
+joy -0.06818965
+suspense -0.1285092
+anger -0.24354944
+sadness 0.2240023
+neutral 0.0023596287
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+हम न उनके बारे में कुछ सोच सकते हैं, न किसी दूसरे को बता सकते हैं
+Emotion predictions:
+joy -0.09020327
+suspense -0.018024843
+anger 0.16579422
+sadness 0.04292012
+neutral 0.09393805
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+मैं आपसे पूछती हूँ - क्या आप अपनी जन्म की घड़ी के बारे में कुछ याद कर सकते हैं, या अपनी मौत के बारे में किसी को कुछ बता सकते हैं, या अपने विवाह के अनुभव को हू-ब-हू अपने भीतर दुहरा सकते हैं
+Emotion predictions:
+joy -0.11085941
+suspense -0.093876496
+anger -0.15665457
+sadness 0.13943917
+neutral -0.026106326
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+आप हँस रहे हैं... नहीं, मेरा मतलब कुछ और था
+Emotion predictions:
+joy -0.0646321
+suspense -0.024425466
+anger 0.19659477
+sadness -0.013088983
+neutral 0.08471164
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+कौन ऐसा आदमी है, जो अपने विवाह के अनुभव को याद नहीं कर सकता
+Emotion predictions:
+joy -0.05902236
+suspense 0.015373692
+anger 0.27196375
+sadness -0.0059294254
+neutral 0.07984942
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+मैंने सुना है, कुछ ऐसे देश हैं, जहाँ जब तक लोग नशे में धुत्त नहीं हो जाते, तब तक विवाह करने का फैसला नहीं लेते... और बाद में उन्हें उसके बारे में कुछ याद नहीं रहता
+Emotion predictions:
+joy -0.03425258
+suspense 0.060283773
+anger 0.2640498
+sadness 0.010252401
+neutral 0.09730893
+
+1/1 [==============================] - 0s 46ms/step
+Input text:
+नहीं जी, मेरा मतलब ऐसे अनुभव से नहीं था
+Emotion predictions:
+joy -0.11048306
+suspense -0.0042901076
+anger 0.21793203
+sadness -0.012630612
+neutral 0.046626363
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+मेरा मतलब था, क्या आप उस क्षण को याद कर सकते हैं, जब आप एकाएक यह फैसला कर लेते हैं कि आप अलग न रह कर किसी दूसरे के साथ रहेंगे... ज़िंदगी-भर
+Emotion predictions:
+joy -0.068250544
+suspense -0.011748819
+anger 0.13374951
+sadness -0.004933741
+neutral 0.0686933
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+मेरा मतलब है, क्या आप सही-सही उस बिंदु पर अँगुली रख सकते हैं, जब आप अपने भीतर के अकेलेपन को थोड़ा-सा सरका कर किसी दूसरे को वहाँ आने देते हैं
+Emotion predictions:
+joy -0.14377394
+suspense -0.094357215
+anger 0.12431471
+sadness -0.018185433
+neutral 0.04354197
+
+1/1 [==============================] - 0s 65ms/step
+Input text:
+... जी हाँ... उसी तरह जैसे कुछ देर पहले आपने थोड़ा-सा सरक कर मुझे बेंच पर आने दिया था और अब मैं आपसे ऐसे बातें कर रही हूँ, मानो आपको बरसों से जानती हूँ
+Emotion predictions:
+joy -0.11383756
+suspense -0.039374344
+anger -0.014376536
+sadness 0.012738019
+neutral 0.094220206
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+लीजिए, अब दो-चार सिपाही भी गिरजे के सामने खड़े हो गए
+Emotion predictions:
+joy -0.08203359
+suspense 0.012759656
+anger 0.30705422
+sadness -0.018963624
+neutral 0.062750466
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+अगर इसी तरह भीड़ जमा होती गई, तो आने-जाने का रास्ता भी रुक जाएगा
+Emotion predictions:
+joy -0.06751863
+suspense -0.0015020333
+anger 0.2668594
+sadness -0.013873588
+neutral 0.09238213
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+आज तो खैर धूप निकली है, लेकिन सर्दी के दिनों में भी लोग ठिठुरते हुए खड़े रहते हैं
+Emotion predictions:
+joy -0.099650554
+suspense 0.0066875517
+anger 0.2895861
+sadness 0.022670947
+neutral 0.14788535
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+मैं तो बरसों से यह देखती आ रही हूँ... कभी-कभी तो यह भ्रम होता है कि पंद्रह साल पहले मेरे विवाह के मौके पर जो लोग जमा हुए थे, वही लोग आज भी हैं, वही घोड़ा-गाड़ी, वही इधर-उधर घूमते हुए सिपाही... जैसे इस दौरान कुछ भी नहीं बदला है
+Emotion predictions:
+joy -0.037557654
+suspense -0.104137294
+anger -0.2731971
+sadness 0.24178909
+neutral 0.0017328933
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+जी हाँ - मेरा विवाह भी इसी गिरजे में हुआ था
+Emotion predictions:
+joy -0.11883262
+suspense -0.0033578537
+anger 0.1984842
+sadness -0.024551068
+neutral 0.06442532
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+लेकिन यह मुद्दत पहले की बात है
+Emotion predictions:
+joy -0.121302985
+suspense -0.044375196
+anger 0.2060861
+sadness -0.038281254
+neutral 0.038405497
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+तब सड़क इतनी चौड़ी नहीं थी कि घोड़ा-गाड़ी सीधे गिरजे के दरवाजे पर आ कर ठहर सके
+Emotion predictions:
+joy -0.09676002
+suspense 0.02077569
+anger 0.2699269
+sadness -0.043723036
+neutral 0.085631445
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+हमें उसे गली के पिछवाड़े रोक देना पड़ा था... और मैं अपने पिता के साथ पैदल चल कर यहाँ तक आई थी
+Emotion predictions:
+joy -0.08590153
+suspense 0.09329397
+anger 0.2936453
+sadness 0.024449367
+neutral 0.08521329
+
+1/1 [==============================] - 0s 64ms/step
+Input text:
+सड़क के दोनों तरफ लोग खड़े थे और मेरा दिल धुक-धुक कर रहा था कि कहीं सबके सामने मेरा पाँव न फिसल पड़े
+Emotion predictions:
+joy -0.095236905
+suspense -0.041291736
+anger 0.20168525
+sadness -0.037437305
+neutral 0.10360603
+
+1/1 [==============================] - 0s 74ms/step
+Input text:
+पता नहीं, वे लोग अब कहाँ होंगे, जो उस रोज भीड़ में खड़े मुझे देख रहे थे
+Emotion predictions:
+joy -0.08987345
+suspense -0.116808884
+anger -0.22919288
+sadness 0.15393944
+neutral -0.005381372
+
+1/1 [==============================] - 0s 80ms/step
+Input text:
+आप क्या सोचते हैं... अगर उनमें से कोई आज मुझे देखे, तो क्या पहचान सकेगा कि बेंच पर बैठी यह अकेली औरत वही लड़की है, जो सफेद पोशाक में पंद्रह साल पहले गिरजे की तरफ जा रही थी
+Emotion predictions:
+joy -0.059721343
+suspense -0.11919144
+anger -0.28342488
+sadness 0.261034
+neutral -0.025132924
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+सच बताइए, क्या पहचान सकेगा
+Emotion predictions:
+joy -0.08865309
+suspense -0.024559096
+anger 0.15525524
+sadness -0.02112142
+neutral 0.087200746
+
+1/1 [==============================] - 0s 66ms/step
+Input text:
+आदमियों की तो बात मैं नहीं जानती, लेकिन मुझे लगता है कि वह घोड़ा मुझे जरूर पहचान लेगा, जो उस दिन हमें खींच कर लाया था... जी हाँ, घोड़ों को देख कर मैं हमेशा हैरान रह जाती हूँ
+Emotion predictions:
+joy -0.031322137
+suspense -0.13793904
+anger -0.24462774
+sadness 0.18889514
+neutral -0.014185686
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+कभी आपने उनकी आँखों में झाँक कर देखा है
+Emotion predictions:
+joy -0.13982067
+suspense -0.010690993
+anger 0.23375429
+sadness 0.014960907
+neutral 0.099468604
+
+1/1 [==============================] - 0s 90ms/step
+Input text:
+लगता है, जैसे वे किसी बहुत ही आत्मीय चीज से अलग हो गए हैं, लेकिन अभी तक अपने अलगाव के आदी नहीं हो सके हैं
+Emotion predictions:
+joy -0.1336282
+suspense -0.000104010105
+anger 0.25308472
+sadness 0.0093169175
+neutral 0.047984235
+
+1/1 [==============================] - 0s 73ms/step
+Input text:
+इसीलिए वे आदमियों की दुनिया में सबसे अधिक उदास रहते हैं
+Emotion predictions:
+joy -0.09717284
+suspense 0.032254376
+anger 0.3160958
+sadness 0.027459048
+neutral 0.087118015
+
+1/1 [==============================] - 0s 70ms/step
+Input text:
+किसी चीज का आदी न हो पाना, इससे बड़ा और कोई दुर्भाग्य नहीं
+Emotion predictions:
+joy -0.09701721
+suspense -0.032943107
+anger 0.20466958
+sadness -0.03454221
+neutral 0.06431098
+
+1/1 [==============================] - 0s 72ms/step
+Input text:
+वे लोग जो आखिर तक आदी नहीं हो पाते या तो घोड़ों की तरह उदासीन हो जाते हैं, या मेरी तरह धूप के एक टुकड़े की खोज में एक बेंच से दूसरी बेंच का चक्कर लगाते रहते हैं
+Emotion predictions:
+joy -0.07551902
+suspense -0.121591955
+anger -0.27187622
+sadness 0.22099325
+neutral -0.03972017
+
+1/1 [==============================] - 0s 70ms/step
+Input text:
+क्या कहा आपने
+Emotion predictions:
+joy 0.02939181
+suspense -0.041483298
+anger 0.1976539
+sadness -0.032970343
+neutral 0.10788515
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+नहीं, आपने शायद मुझे गलत समझ लिया
+Emotion predictions:
+joy -0.077447295
+suspense 0.03551536
+anger 0.25657216
+sadness -0.017988265
+neutral 0.10499634
+
+1/1 [==============================] - 0s 88ms/step
+Input text:
+मेरे कोई बच्चा नहीं -यह मेरा सौभाग्य है
+Emotion predictions:
+joy -0.096139535
+suspense -0.03487397
+anger 0.1699557
+sadness -0.0069147944
+neutral 0.096743576
+
+1/1 [==============================] - 0s 70ms/step
+Input text:
+बच्चा होता, तो शायद मैं कभी अलग नहीं हो पाती
+Emotion predictions:
+joy -0.101592824
+suspense 0.017849807
+anger 0.2514498
+sadness -0.00168024
+neutral 0.101156466
+
+1/1 [==============================] - 0s 68ms/step
+Input text:
+आपने देखा होगा, आदमी और औरत में प्यार न भी रहे, तो भी बच्चे की ख़ातिर एक-दूसरे के साथ जुड़े रहते हैं
+Emotion predictions:
+joy -0.06409939
+suspense -0.116140805
+anger -0.262846
+sadness 0.21662691
+neutral 0.0027653575
+
+1/1 [==============================] - 0s 73ms/step
+Input text:
+मेरे साथ कभी ऐसी रुकावट नहीं रही
+Emotion predictions:
+joy -0.03582617
+suspense 0.034425292
+anger 0.28472012
+sadness 0.040279977
+neutral 0.12767574
+
+1/1 [==============================] - 0s 81ms/step
+Input text:
+इस लिहाज से मैं बहुत सुखी हूँ -अगर सुख का मतलब है कि हम अपने अकेलेपन को खुद चुन सकें
+Emotion predictions:
+joy -0.13138299
+suspense -0.04550381
+anger 0.1709877
+sadness 0.0010279566
+neutral 0.09471492
+
+1/1 [==============================] - 0s 66ms/step
+Input text:
+लेकिन चुनना एक बात है, आदी हो सकना बिल्कुल दूसरी बात
+Emotion predictions:
+joy -0.11461158
+suspense 0.0062434413
+anger 0.24673198
+sadness -0.02719587
+neutral 0.047782376
+
+1/1 [==============================] - 0s 79ms/step
+Input text:
+जब शाम को धूप मिटने लगती है, तो मैं अपने कमरे में चली जाती हूँ
+Emotion predictions:
+joy -0.11632431
+suspense 0.05188068
+anger 0.25590742
+sadness 0.019976027
+neutral 0.07362848
+
+1/1 [==============================] - 0s 67ms/step
+Input text:
+लेकिन जाने से पहले मैं कुछ देर उस पब में जरूर बैठती हूँ, जहाँ वह मेरी प्रतीक्षा करता था
+Emotion predictions:
+joy -0.11381543
+suspense 0.026301723
+anger 0.20670743
+sadness -0.0079605505
+neutral 0.10027043
+
+1/1 [==============================] - 0s 74ms/step
+Input text:
+जानते हैं, उस पब का नाम
+Emotion predictions:
+joy -0.11928393
+suspense -0.059179015
+anger 0.15933684
+sadness 0.0034263507
+neutral 0.06806183
+
+1/1 [==============================] - 0s 87ms/step
+Input text:
+बोनापार्ट - जी हाँ, कहते हैं, जब नेपोलियन पहली बार इस शहर में आया, तो उस पब में बैठा था - लेकिन उन दिनों मुझे इसका कुछ पता नहीं था
+Emotion predictions:
+joy -0.114504464
+suspense -0.030525828
+anger 0.23042348
+sadness -0.0058151484
+neutral 0.029169869
+
+1/1 [==============================] - 0s 84ms/step
+Input text:
+जब पहली बार उसने मुझसे कहा कि हम बोनापार्ट के सामने मिलेंगे, तो मैं सारी शाम शहर के दूसरे सिरे पर खड़ी रही, जहाँ नेपोलियन घोड़े पर बैठा है
+Emotion predictions:
+joy -0.09639272
+suspense -0.08613156
+anger -0.14918837
+sadness 0.10885924
+neutral -0.06651535
+
+1/1 [==============================] - 0s 45ms/step
+Input text:
+आपने कभी अपनी पहली डेट इस तरह गुजारी है कि आप सारी शाम पब के सामने खड़े रहें और आपकी मंगेतर पब्लिक-स्टेचू के नीचे
+Emotion predictions:
+joy -0.13070178
+suspense 0.025613263
+anger 0.312198
+sadness 0.033746477
+neutral 0.08158018
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+बाद में जो उसका शौक था, वह मेरी आदत बन गई
+Emotion predictions:
+joy -0.07958646
+suspense 0.05596141
+anger 0.2556333
+sadness -0.03397557
+neutral 0.080631
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+हम दोनों हर शाम कभी उस जगह जाते, जहाँ मुझे मिलने से पहले वह बैठता था, या उस शहर के उन इलाकों में घूमने निकल जाते, जहाँ मैंने बचपन गुजारा था
+Emotion predictions:
+joy -0.12580334
+suspense 0.007394299
+anger 0.2299231
+sadness 0.03523299
+neutral 0.12181813
+
+1/1 [==============================] - 0s 59ms/step
+Input text:
+यह आपको कुछ अजीब नहीं लगता कि जब हम किसी व्यक्ति को बहुत चाहने लगते हैं, तो न केवल वर्तमान में उसके साथ रहना चाहते हैं, बल्कि उसके अतीत को भी निगलना चाहते हैं, जब वह हमारे साथ नहीं था
+Emotion predictions:
+joy -0.018817782
+suspense -0.12789087
+anger -0.27708086
+sadness 0.2446368
+neutral -0.018499166
+
+1/1 [==============================] - 0s 65ms/step
+Input text:
+हम इतने लालची और ईर्ष्यालु हो जाते हैं कि हमें यह सोचना भी असहनीय लगता है कि कभी ऐसा समय रहा होगा, जब वह हमारे बगैर जीता था, प्यार करता था, सोता-जागता था
+Emotion predictions:
+joy -0.042487502
+suspense -0.11724955
+anger -0.25057185
+sadness 0.24122459
+neutral -0.0026981384
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+फिर अगर कुछ साल उसी एक आदमी के साथ गुजार दें, तो यह कहना भी असंभव हो जाता है कि कौन-सी आदत आपकी अपनी है, कौन-सी आपने दूसरे से चुराई है... जी हाँ, ताश के पत्तों की तरह वे इस तरह आपमें घुल-मिल जाती हैं कि आप किसी एक पत्तों को उठा कर नहीं कह सकते कि यह पत्ता मेरा है, और वह पत्ता उसका
+Emotion predictions:
+joy -0.11554857
+suspense -0.14403692
+anger 0.0354867
+sadness 0.0018262863
+neutral 0.025230292
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+देखिए, कभी-कभी मैं सोचती हूँ कि मरने से पहले हममें से हर एक को यह छूट मिलनी चाहिए कि हम अपनी चीर-फाड़ खुद कर सकें
+Emotion predictions:
+joy -0.123856395
+suspense -0.0037211291
+anger 0.15752915
+sadness 0.0064445734
+neutral 0.07643947
+
+1/1 [==============================] - 0s 62ms/step
+Input text:
+अपने अतीत की तहों को प्याज के छिलकों की तरह एक-एक करके उतारते जाएँ... आपको हैरानी होगी कि सब लोग अपना-अपना हिस्सा लेने आ पहुँचेंगे, माँ-बाप, दोस्त, पति... सारे छिलके दूसरों के, आखिर की सूखी डंठल आपके हाथ में रह जाएगी, जो किसी काम की नहीं, जिसे मृत्यु के बाद जला दिया जाता है, या मिट्टी के नीचे दबा दिया जाता है
+Emotion predictions:
+joy -0.0945427
+suspense -0.13158366
+anger 0.061934587
+sadness 0.0023220554
+neutral 0.030097121
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+देखिए, अक्सर कहा जाता है कि हर आदमी अकेला मरता है
+Emotion predictions:
+joy -0.18787095
+suspense -0.077818185
+anger 0.05211903
+sadness 0.01712203
+neutral 0.037120387
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+मैं यह नहीं मानती
+Emotion predictions:
+joy -0.057535883
+suspense 0.057107233
+anger 0.30358693
+sadness 0.017147519
+neutral 0.1297031
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+वह उन सब लोगों के साथ मरता है, जो उसके भीतर थे, जिनसे वह लड़ता था या प्रेम करता था
+Emotion predictions:
+joy -0.124339044
+suspense -0.01799376
+anger 0.15270512
+sadness 0.025668051
+neutral 0.109471776
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+वह अपने भीतर पूरी एक दुनिया ले कर जाता है
+Emotion predictions:
+joy -0.12504382
+suspense -0.06967653
+anger 0.19872215
+sadness 0.015283018
+neutral 0.08124203
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+इसीलिए हमें दूसरों के मरने पर जो दुख होता है, वह थोड़ा-बहुत स्वार्थी क़िस्म का दुख है, क्योंकि हमें लगता है कि इसके साथ हमारा एक हिस्सा भी हमेशा के लिए खत्म हो गया है
+Emotion predictions:
+joy -0.06371302
+suspense -0.15205598
+anger -0.27941406
+sadness 0.22366807
+neutral -0.035802703
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+अरे देखिए - वह जाग गया
+Emotion predictions:
+joy -0.09493227
+suspense -0.023370069
+anger 0.13134266
+sadness -0.021256402
+neutral 0.056415748
+
+1/1 [==============================] - 0s 44ms/step
+Input text:
+जरा पेरेंबुलेटर हिलाइए, धीरे-धीरे हिलाते जाइए
+Emotion predictions:
+joy -0.115442544
+suspense -0.05078594
+anger 0.1763826
+sadness -0.0019821003
+neutral 0.049904868
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+अपने आप चुप हो जाएगा... मुँह में चूसनी इस तरह दबा कर लेटा है, जैसे छोटा-मोटा सिगार हो
+Emotion predictions:
+joy -0.05109621
+suspense 0.081952944
+anger 0.34533423
+sadness 0.009104319
+neutral 0.075251624
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+देखिए-कैसे ऊपर बादलों की तरफ टुकुर-टुकुर ताक रहा है
+Emotion predictions:
+joy -0.10086794
+suspense 0.021205321
+anger 0.23746595
+sadness -0.025375284
+neutral 0.049432244
+
+1/1 [==============================] - 0s 60ms/step
+Input text:
+मैं जब छोटी थी, तब लकड़ी ले कर बादलों की तरफ इस तरह घुमाती थी, जैसे वे मेरे इशारों पर ही आकाश में चल रहे हों... आप क्या सोचते हैं
+Emotion predictions:
+joy -0.06686727
+suspense 0.022751264
+anger 0.1637521
+sadness 0.028526984
+neutral 0.07760069
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+बच्चे इस उम्र में जो कुछ देखते हैं या सुनते हैं, वह क्या बाद में उन्हें याद रहता है
+Emotion predictions:
+joy -0.16997385
+suspense -0.11188785
+anger 0.09062346
+sadness 0.066107854
+neutral 0.048868217
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+रहता जरूर होगा... कोई आवाज, कोई झलक, या कोई आहट, जिसे बड़े हो कर हम उम्र के जाले में खो देते हैं
+Emotion predictions:
+joy -0.059558097
+suspense -0.004896246
+anger 0.17558888
+sadness -0.009025406
+neutral 0.07356811
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+लेकिन किसी अनजाने मौके पर, जरा-सा इशारा पाते ही हमें लगता है कि इस आवाज को कहीं हमने सुना है, यह घटना या ऐसी ही कोई घटना पहले कभी हुई है... और फिर उसके साथ-साथ बहुत-सी चीजें अपने आप खुलने लगती हैं, जो हमारे भीतर अरसे से जमा थीं, लेकिन रोजमर्रा की दौड़-धूप में जिनकी तरफ हमारा ध्यान जाता नहीं, लेकिन वे वहाँ हैं, घात लगाए कोने में खड़ी रहती हैं - मौके की तलाश में - और फिर किसी घड़ी सड़क पर चलते हुए या ट्राम की प्रतीक्षा करते हुए या रात को सोने और जागने के बीच वे अचानक आपको पकड़ लेती हैं और तब आप कितना ही हाथ-पाँव क्यों न मारें, कितना ही क्यों न छटपटाएँ, वे आपको छोड़ती नहीं
+Emotion predictions:
+joy -0.109176636
+suspense -0.11821842
+anger 0.070539415
+sadness -0.015031692
+neutral 0.033406373
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+मेरे साथ एक रात ऐसे ही हुआ था...
+Emotion predictions:
+joy -0.050655127
+suspense 0.0061965846
+anger 0.12226759
+sadness -0.0108958855
+neutral 0.0829054
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+हम दोनों सो रहे थे और तब मुझे एक अजीब-सा खटका सुनाई दिया - बिल्कुल वैसे ही, जैसे बचपन में मैं अपने अकेले कमरे में हड़बड़ा कर जाग उठती थी और सहसा यह भ्रम होता था कि दूसरे कमरे में माँ और बाबू नहीं हैं - और मुझे लगता था कि अब मैं उन्हें कभी नहीं देख सकूँगी और तब मैं चीखने लगती थी
+Emotion predictions:
+joy -0.104742825
+suspense -0.14672847
+anger 0.042552486
+sadness 0.0060938112
+neutral 0.04084126
+
+1/1 [==============================] - 0s 48ms/step
+Input text:
+लेकिन उस रात मैं चीखी-चिल्लाई नहीं
+Emotion predictions:
+joy -0.038672224
+suspense 0.00345096
+anger 0.22643876
+sadness 0.002618812
+neutral 0.10776465
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+मैं बिस्तर से उठ कर देहरी तक आई, दरवाजा खोल कर बाहर झाँका, बाहर कोई न था
+Emotion predictions:
+joy -0.07769036
+suspense 0.041550696
+anger 0.24457213
+sadness 0.014817461
+neutral 0.080537856
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+वापस लौट कर उसकी तरफ देखा
+Emotion predictions:
+joy -0.08792417
+suspense 0.027446516
+anger 0.22930315
+sadness -0.007958628
+neutral 0.06257005
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+वह दीवार की तरफ मुँह मोड़ कर सो रहा था, जैसे वह हर रात सोता था
+Emotion predictions:
+joy -0.19973433
+suspense -0.12156573
+anger 0.108679615
+sadness 0.06905423
+neutral 0.037774015
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+उसे कुछ भी सुनाई नहीं दिया था
+Emotion predictions:
+joy -0.121178836
+suspense -0.02664664
+anger 0.21364081
+sadness 0.025576461
+neutral 0.07349843
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+तब मुझे पता चला कि वह खटका कहीं बाहर नहीं, मेरे भीतर हुआ था
+Emotion predictions:
+joy -0.14222306
+suspense -0.016254809
+anger 0.18912965
+sadness 0.0015520938
+neutral 0.07123741
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+नहीं, मेरे भीतर भी नहीं, अँधेरे में एक चमगादड़ की तरह वह मुझे छूता हुआ निकल गया था - न बाहर, न भीतर, फिर भी चारों तरफ फड़फड़ाता हुआ
+Emotion predictions:
+joy -0.10972744
+suspense -0.0078038163
+anger 0.25819954
+sadness 0.00953275
+neutral 0.077906616
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+मैं पलँग पर आ कर बैठ गई, जहाँ वह लेटा था और धीरे-धीरे उसकी देह को छूने लगी
+Emotion predictions:
+joy -0.08265464
+suspense 0.066928364
+anger 0.24929288
+sadness -0.02289091
+neutral 0.07282316
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+उसकी देह के उन सब कोनों को छूने लगी, जो एक जमाने में मुझे तसल्ली देते थे
+Emotion predictions:
+joy -0.15646626
+suspense -0.040930778
+anger 0.13072176
+sadness 0.03270168
+neutral 0.07567948
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+मुझे यह अजीब-सा लगा कि मैं उसे छू रही हूँ और मेरे हाथ खाली-के-खाली वापस लौट आते हैं
+Emotion predictions:
+joy -0.10691485
+suspense 0.009140477
+anger 0.18851519
+sadness -0.0044545345
+neutral 0.10466255
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+बरसों पहले की गूँज, जो उसके अंगों से निकल कर मेरी आत्मा में बस जाती थी, अब कहीं न थी
+Emotion predictions:
+joy -0.09265808
+suspense 0.032105815
+anger 0.26090345
+sadness 0.014065467
+neutral 0.06758915
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+मैं उसी तरह उसकी देह को टोह रही थी, जैसे कुछ लोग पुराने खंडहरों पर अपने नाम खोजते हैं, जो मुद्दत पहले उन्होंने दीवारों पर लिखे थे
+Emotion predictions:
+joy -0.07265433
+suspense -0.12861186
+anger -0.20697138
+sadness 0.19527075
+neutral -0.04142969
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+लेकिन मेरा नाम वहाँ कहीं न था
+Emotion predictions:
+joy -0.08353511
+suspense -0.018942185
+anger 0.23696068
+sadness 0.0070272647
+neutral 0.094688416
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+कुछ और निशान थे, जिन्हें मैंने पहले कभी नहीं देखा था; जिनका मुझसे दूर का भी वास्ता न था
+Emotion predictions:
+joy -0.08639816
+suspense 0.087289326
+anger 0.2507044
+sadness 0.0076663867
+neutral 0.09383403
+
+1/1 [==============================] - 0s 61ms/step
+Input text:
+मैं रात-भर उसके सिरहाने बैठी रही और मेरे हाथ मुर्दा हो कर उसकी देह पर पड़े रहे... मुझे यह भयानक-सा लगा कि हम दोनों के बीच जो खालीपन आ गया था, वह मैं किसी से नहीं कह सकती
+Emotion predictions:
+joy -0.097416624
+suspense 0.044723533
+anger 0.110755175
+sadness -0.0025841445
+neutral 0.053728044
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+जी हाँ-अपने वकील से भी नहीं, जिन्हें मैं अरसे से जानती थी
+Emotion predictions:
+joy -0.13427818
+suspense -0.027889073
+anger 0.16189554
+sadness -0.0020460747
+neutral 0.08506511
+
+1/1 [==============================] - 0s 47ms/step
+Input text:
+वे समझे, मैं सठिया गई हूँ
+Emotion predictions:
+joy -0.040637687
+suspense 0.086448774
+anger 0.3101609
+sadness 0.014779583
+neutral 0.1173085
+
+1/1 [==============================] - 0s 45ms/step
+Input text:
+कैसा खटका
+Emotion predictions:
+joy -0.062437836
+suspense -0.045354526
+anger 0.22277218
+sadness 0.005233355
+neutral 0.07269574
+
+1/1 [==============================] - 0s 44ms/step
+Input text:
+क्या मेरा पति किसी दूसरी औरत के साथ जाता था
+Emotion predictions:
+joy -0.11389564
+suspense -0.046621263
+anger 0.1554127
+sadness -0.014275938
+neutral 0.09781559
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+क्या वह मेरे प्रति क्रूर था
+Emotion predictions:
+joy -0.089220695
+suspense -0.03665243
+anger 0.20734376
+sadness 0.020757683
+neutral 0.10072267
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+जी हाँ... उसने प्रश्नों की झड़ी लगा दी और मैं थी कि एक ईडियट की तरह उनका मुँह ताकती रही
+Emotion predictions:
+joy -0.0934218
+suspense -0.0280963
+anger 0.108728096
+sadness 0.0035278723
+neutral 0.056969788
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+और तब मुझे पहली बार पता चला कि अलग होने के लिए कोर्ट, कचहरी जाना जरूरी नहीं है
+Emotion predictions:
+joy -0.24285848
+suspense -0.10293627
+anger 0.11582518
+sadness 0.09317375
+neutral -0.0027711
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+अक्सर लोग कहते हैं कि अपना दुख दूसरों के साथ बाँट कर हम हल्के हो जाते हैं
+Emotion predictions:
+joy -0.10061382
+suspense 0.01718796
+anger 0.21758553
+sadness 0.009653583
+neutral 0.059064373
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+मैं कभी हल्की नहीं होती
+Emotion predictions:
+joy -0.03352888
+suspense 0.041242044
+anger 0.29774374
+sadness 0.04164584
+neutral 0.12041902
+
+1/1 [==============================] - 0s 65ms/step
+Input text:
+नहीं जी, लोग दुख नहीं बाँटते, सिर्फ फ़ैसला करते हैं - कौन दोषी है और कौन निर्दोष... मुश्किल यह है, जो एक व्यक्ति आपकी दुखती रग को सही-सही पहचान सकता है, उसी से हम अलग हो जाते हैं... इसीलिए मैं अपने मुहल्ले को छोड़ कर शहर के इस इलाके में आ गई, यहाँ मुझे कोई नहीं जानता
+Emotion predictions:
+joy -0.09887722
+suspense -0.12969765
+anger 0.046261497
+sadness -0.0031909905
+neutral 0.029262932
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+यहाँ मुझे देख कर कोई यह नहीं कहता कि देखो, यह औरत अपने पति के साथ आठ वर्ष रही और फिर अलग हो गई
+Emotion predictions:
+joy -0.16712748
+suspense -0.01580372
+anger 0.21909975
+sadness 0.023707207
+neutral 0.043062985
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+पहले जब कोई इस तरह की बात कहता था, तो मैं बीच सड़क पर खड़ी हो जाती थी
+Emotion predictions:
+joy -0.12745652
+suspense 0.023755565
+anger 0.20622522
+sadness 0.024264857
+neutral 0.094156094
+
+1/1 [==============================] - 0s 58ms/step
+Input text:
+इच्छा होती थी, लोगों को पकड़ कर शुरू से आखिर तक सब कुछ बताऊँ... कैसे हम पहली शाम अलग-अलग एक-दूसरे की प्रतीक्षा करते रहे थे - वह पब के सामने, मैं मूर्ति के नीचे
+Emotion predictions:
+joy -0.10395366
+suspense 0.12256165
+anger 0.3751449
+sadness 0.0314797
+neutral 0.14137085
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+कैसे उसने पहली बार मुझे पेड़ के तने से सटा कर चूमा था, कैसे मैंने पहली बार डरते-डरते उसके बालों को छुआ था
+Emotion predictions:
+joy -0.096430264
+suspense 0.0108359195
+anger 0.22252174
+sadness -0.0035975575
+neutral 0.06995559
+
+1/1 [==============================] - 0s 63ms/step
+Input text:
+जी हाँ, मुझे यह लगता था कि जब तक मैं उन्हें यह सच नहीं बता दूँगी, तब तक उस रात के बारे में कुछ नहीं कह सकूँगी, जब पहली बार मेरे भीतर खटका हुआ था और बरसों बाद यह इच्छा हुई थी कि मैं दूसरे कमरे में भाग जाऊँ, जहाँ मेरे माँ-बाप सोते थे... लेकिन वह कमरा खाली था
+Emotion predictions:
+joy -0.15244329
+suspense -0.16056436
+anger 0.008333389
+sadness 0.102195255
+neutral 0.020522797
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+जी, मैंने कहीं पढ़ा था कि बड़े होने का मतलब है कि अगर आप आधी रात को जाग जाएँ और कितना ही क्यों न चीखें-चिल्लाएँ, दूसरे कमरे से कोई नहीं आएगा
+Emotion predictions:
+joy -0.17906295
+suspense -0.09009373
+anger 0.12004805
+sadness -0.03449153
+neutral 0.08318859
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+वह हमेशा खाली रहेगा
+Emotion predictions:
+joy -0.112018704
+suspense -0.01649395
+anger 0.2463891
+sadness 0.038273476
+neutral 0.09404987
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+देखिए, उस रात के बाद मैं कितनी बड़ी हो गई हूँ
+Emotion predictions:
+joy -0.12580785
+suspense 0.06296118
+anger 0.20863062
+sadness 0.010721922
+neutral 0.06606221
+
+1/1 [==============================] - 0s 44ms/step
+Input text:
+लेकिन एक बात मुझे अभी तक समझ में नहीं आती
+Emotion predictions:
+joy -0.077460706
+suspense -0.0011913404
+anger 0.22622727
+sadness -0.02542172
+neutral 0.075369716
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+भूचाल या बमबारी की खबरें अखबारों में छपती हैं
+Emotion predictions:
+joy -0.13098532
+suspense 0.0086808875
+anger 0.24038161
+sadness 0.013549343
+neutral 0.056237563
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+दूसरे दिन सबको पता चल जाता है कि जहाँ बच्चों का स्कूल था, वहाँ खंडहर हैं; जहाँ खंडहर थे, वहाँ उड़ती धूल
+Emotion predictions:
+joy -0.09672828
+suspense 0.040874407
+anger 0.3205709
+sadness 0.0023807213
+neutral 0.14104658
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+लेकिन जब लोगों के साथ ऐसा होता है, तो किसी को कोई खबर नहीं होती... उस रात के बाद दूसरे दिन मैं सारे शहर में अकेली घूमती रही और किसी ने मेरी तरफ देखा भी नहीं... जब मैं पहली बार इस पार्क में आई थी, इसी बेंच पर बैठी थी, जिस पर आप बैठे हैं
+Emotion predictions:
+joy -0.016668022
+suspense -0.10237833
+anger -0.28795657
+sadness 0.25910735
+neutral -0.009493589
+
+1/1 [==============================] - 0s 56ms/step
+Input text:
+और जी हाँ, उस दिन मुझे बहुत आश्चर्य हुआ कि मैं उसी गिरजे के सामने बैठी हूँ, जहाँ मेरा विवाह हुआ था... तब सड़क इतनी चौड़ी नहीं थी कि हमारी घोड़ा-गाड़ी सीधे गिरजे के सामने आ सके
+Emotion predictions:
+joy -0.22334799
+suspense -0.15291926
+anger -0.04376678
+sadness 0.024561927
+neutral 0.062043943
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+हम दोनों पैदल चल कर यहाँ आए थे...
+Emotion predictions:
+joy -0.034140028
+suspense 0.043888647
+anger 0.24524707
+sadness 0.017451901
+neutral 0.06686311
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+आप सुन रहे हैं, ओर्गन पर संगीत
+Emotion predictions:
+joy -0.05114214
+suspense 0.028616965
+anger 0.31161663
+sadness -0.005496502
+neutral 0.09993334
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+देखिए, उन्होंने दरवाजे खोल दिए हैं
+Emotion predictions:
+joy -0.10615672
+suspense 0.08810321
+anger 0.30813882
+sadness 0.034403242
+neutral 0.07099064
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+संगीत की आवाज यहाँ तक आती है
+Emotion predictions:
+joy -0.030824237
+suspense 0.055391204
+anger 0.29433635
+sadness -0.009368677
+neutral 0.082338355
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+इसे सुनते ही मुझे पता चल जाता है कि उन्होंने एक-दूसरे को चूमा है, अँगूठियों की अदला-बदली की है
+Emotion predictions:
+joy -0.042488597
+suspense -0.13780248
+anger -0.29027808
+sadness 0.23532233
+neutral -0.0002875887
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+बस, अब थोड़ी-सी देर और है - वे अब बाहर आनेवाले हैं
+Emotion predictions:
+joy -0.13163513
+suspense -0.022174582
+anger 0.15635496
+sadness 0.031288274
+neutral 0.07567454
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+लोगों में अब इतना चैन कहाँ कि शांति से खड़े रहें, अगर आप जा कर देखना चाहें, तो निश्चिंत हो कर चले जाएँ
+Emotion predictions:
+joy -0.08812555
+suspense -0.004924476
+anger 0.2194347
+sadness -0.014824718
+neutral 0.073893934
+
+1/1 [==============================] - 0s 55ms/step
+Input text:
+मैं तो यहाँ बैठी ही हूँ
+Emotion predictions:
+joy -0.089344844
+suspense 0.032206558
+anger 0.2899434
+sadness 0.034376934
+neutral 0.1125815
+
+1/1 [==============================] - 0s 49ms/step
+Input text:
+आपके बच्चे को देखती रहूँगी
+Emotion predictions:
+joy -0.109179065
+suspense -0.017264448
+anger 0.21696898
+sadness 0.043035273
+neutral 0.079451755
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+क्या कहा आपने
+Emotion predictions:
+joy 0.02939181
+suspense -0.041483298
+anger 0.1976539
+sadness -0.032970343
+neutral 0.10788515
+
+1/1 [==============================] - 0s 54ms/step
+Input text:
+जी हाँ, शाम होने तक यहीं रहती हूँ
+Emotion predictions:
+joy -0.11240404
+suspense -0.009135976
+anger 0.18498859
+sadness -0.03915953
+neutral 0.08284893
+
+1/1 [==============================] - 0s 53ms/step
+Input text:
+फिर यहाँ सर्दी हो जाती है
+Emotion predictions:
+joy -0.11811376
+suspense 0.024273463
+anger 0.2395585
+sadness -0.012416005
+neutral 0.08017109
+
+1/1 [==============================] - 0s 50ms/step
+Input text:
+दिन-भर मैं यह देखती रहती हूँ कि धूप का टुकड़ा किस बेंच पर है - उसी बेंच पर जा कर बैठ जाती हूँ
+Emotion predictions:
+joy -0.11225898
+suspense 0.004011087
+anger 0.16478567
+sadness 0.0067697465
+neutral 0.045677695
+
+1/1 [==============================] - 0s 57ms/step
+Input text:
+पार्क का कोई ऐसा कोना नहीं, जहाँ मैं घड़ी-आधा घड़ी नहीं बैठती
+Emotion predictions:
+joy -0.08794004
+suspense -0.029585257
+anger 0.21037747
+sadness -0.030434124
+neutral 0.10347191
+
+1/1 [==============================] - 0s 52ms/step
+Input text:
+लेकिन यह बेंच मुझे सबसे अच्छी लगती है
+Emotion predictions:
+joy -0.10370314
+suspense 0.014419861
+anger 0.29641736
+sadness -0.00045335293
+neutral 0.08897009
+
+1/1 [==============================] - 0s 51ms/step
+Input text:
+एक तो इस पर पत्ते नहीं झरते और दूसरे... अरे, आप जा रहे हैं
+Emotion predictions:
+joy -0.07706311
+suspense -0.00536846
+anger 0.17583475
+sadness -0.008439485
+neutral 0.08777884
